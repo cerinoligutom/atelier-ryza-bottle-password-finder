@@ -1,0 +1,10 @@
+.nuxt/
+.output/
+node_modules/
+dist/
+*.md*
+*.json
+generated/
+
+# pnpm
+pnpm-lock.yaml
