@@ -1,0 +1,42 @@
+name: CI
+on:
+  push:
+    branches:
+      - 'main'
+    paths-ignore:
+      - '**/README.md'
+
+  pull_request:
+    branches:
+      - 'main'
+    paths-ignore:
+      - '**/README.md'
+
+env:
+  # https://typicode.github.io/husky/#/?id=with-env-variables
+  HUSKY: '0'
+
+jobs:
+  build:
+    name: 'Build Project'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 7
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          cache: 'pnpm'
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Build project
+        run: pnpm build
+
+      - name: Run linter
+        run: pnpm lint
