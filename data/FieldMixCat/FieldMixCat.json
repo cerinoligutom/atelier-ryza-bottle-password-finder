@@ -1,0 +1,270 @@
+{
+  "Root": {
+    "FieldMixCat": [
+      {
+        "$": {
+          "No": "0",
+          "category": "ITEM_CATEGORY_LIQUID"
+        }
+      },
+      {
+        "$": {
+          "No": "1",
+          "category": "ITEM_CATEGORY_PLANT"
+        }
+      },
+      {
+        "$": {
+          "No": "2",
+          "category": "ITEM_CATEGORY_UNI"
+        }
+      },
+      {
+        "$": {
+          "No": "3",
+          "category": "ITEM_CATEGORY_FLOWER"
+        }
+      },
+      {
+        "$": {
+          "No": "4",
+          "category": "ITEM_CATEGORY_MEDICAL"
+        }
+      },
+      {
+        "$": {
+          "No": "5",
+          "category": "ITEM_CATEGORY_POISON"
+        }
+      },
+      {
+        "$": {
+          "No": "6",
+          "category": "ITEM_CATEGORY_ELIXIL"
+        }
+      },
+      {
+        "$": {
+          "No": "7",
+          "category": "ITEM_CATEGORY_SAND"
+        }
+      },
+      {
+        "$": {
+          "No": "8",
+          "category": "ITEM_CATEGORY_STONE"
+        }
+      },
+      {
+        "$": {
+          "No": "9",
+          "category": "ITEM_CATEGORY_ORE"
+        }
+      },
+      {
+        "$": {
+          "No": "10",
+          "category": "ITEM_CATEGORY_GEMSTONE"
+        }
+      },
+      {
+        "$": {
+          "No": "11",
+          "category": "ITEM_CATEGORY_POWDER"
+        }
+      },
+      {
+        "$": {
+          "No": "12",
+          "category": "ITEM_CATEGORY_FUEL"
+        }
+      },
+      {
+        "$": {
+          "No": "13",
+          "category": "ITEM_CATEGORY_FOODSTUFF"
+        }
+      },
+      {
+        "$": {
+          "No": "14",
+          "category": "ITEM_CATEGORY_NUT"
+        }
+      },
+      {
+        "$": {
+          "No": "15",
+          "category": "ITEM_CATEGORY_BEEHIVE"
+        }
+      },
+      {
+        "$": {
+          "No": "16",
+          "category": "ITEM_CATEGORY_MUSHROOM"
+        }
+      },
+      {
+        "$": {
+          "No": "17",
+          "category": "ITEM_CATEGORY_FISH"
+        }
+      },
+      {
+        "$": {
+          "No": "18",
+          "category": "ITEM_CATEGORY_INSECT"
+        }
+      },
+      {
+        "$": {
+          "No": "19",
+          "category": "ITEM_CATEGORY_THREAD"
+        }
+      },
+      {
+        "$": {
+          "No": "20",
+          "category": "ITEM_CATEGORY_WOOD"
+        }
+      },
+      {
+        "$": {
+          "No": "21",
+          "category": "ITEM_CATEGORY_GAS"
+        }
+      },
+      {
+        "$": {
+          "No": "22",
+          "category": "ITEM_CATEGORY_PUNIPUNI"
+        }
+      },
+      {
+        "$": {
+          "No": "23",
+          "category": "ITEM_CATEGORY_ANIMAL"
+        }
+      },
+      {
+        "$": {
+          "No": "24",
+          "category": "ITEM_CATEGORY_DRAGON"
+        }
+      },
+      {
+        "$": {
+          "No": "25",
+          "category": "ITEM_CATEGORY_MYSTIC"
+        }
+      },
+      {
+        "$": {
+          "No": "26",
+          "category": "ITEM_CATEGORY_NEUTRALIZE"
+        }
+      },
+      {
+        "$": {
+          "No": "27",
+          "category": "ITEM_CATEGORY_SUNDRIES"
+        }
+      },
+      {
+        "$": {
+          "No": "28",
+          "category": "ITEM_CATEGORY_METAL"
+        }
+      },
+      {
+        "$": {
+          "No": "29",
+          "category": "ITEM_CATEGORY_JEWEL"
+        }
+      },
+      {
+        "$": {
+          "No": "30",
+          "category": "ITEM_CATEGORY_SEASONING"
+        }
+      },
+      {
+        "$": {
+          "No": "31",
+          "category": "ITEM_CATEGORY_SEED"
+        }
+      },
+      {
+        "$": {
+          "No": "32",
+          "category": "ITEM_CATEGORY_FOOD"
+        }
+      },
+      {
+        "$": {
+          "No": "33",
+          "category": "ITEM_CATEGORY_MEDICINE"
+        }
+      },
+      {
+        "$": {
+          "No": "34",
+          "category": "ITEM_CATEGORY_BOMB"
+        }
+      },
+      {
+        "$": {
+          "No": "35",
+          "category": "ITEM_CATEGORY_MAGICITEM"
+        }
+      },
+      {
+        "$": {
+          "No": "36",
+          "category": "ITEM_CATEGORY_INGOT"
+        }
+      },
+      {
+        "$": {
+          "No": "37",
+          "category": "ITEM_CATEGORY_CLOTH"
+        }
+      },
+      {
+        "$": {
+          "No": "38",
+          "category": "ITEM_CATEGORY_WEAPON"
+        }
+      },
+      {
+        "$": {
+          "No": "39",
+          "category": "ITEM_CATEGORY_ARMOR"
+        }
+      },
+      {
+        "$": {
+          "No": "40",
+          "category": "ITEM_CATEGORY_ACCESSORY"
+        }
+      },
+      {
+        "$": {
+          "No": "41",
+          "category": "ITEM_CATEGORY_COLLECT"
+        }
+      },
+      {
+        "$": {
+          "No": "42",
+          "category": "ITEM_CATEGORY_FURNITURE"
+        }
+      },
+      {
+        "$": {
+          "No": "43",
+          "category": "ITEM_CATEGORY_KEY"
+        }
+      }
+    ]
+  }
+}

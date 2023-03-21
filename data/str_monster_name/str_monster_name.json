@@ -1,0 +1,492 @@
+{
+  "Root": {
+    "str": [
+      {
+        "$": {
+          "String_No": "19791873",
+          "Text": "Blue Puni"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791874",
+          "Text": "Green Puni"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791875",
+          "Text": "Red Puni"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791876",
+          "Text": "Black Puni"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791877",
+          "Text": "Silver Puni"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791878",
+          "Text": "Gold Puni"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791879",
+          "Text": "Big Puni"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791880",
+          "Text": "Shining Puni"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791881",
+          "Text": "Giant Weasel"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791882",
+          "Text": "Bluefin"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791883",
+          "Text": "Silky Fur"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791884",
+          "Text": "Night Hunter"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791885",
+          "Text": "Ruined Corrupter"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791886",
+          "Text": "Hide Stalker"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791887",
+          "Text": "Mother Weasel"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791888",
+          "Text": "Savage Assassin"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791889",
+          "Text": "Flower Pixie"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791890",
+          "Text": "Illuminated Sylph"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791891",
+          "Text": "Flower Gardener"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791892",
+          "Text": "Eternal Guardian"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791893",
+          "Text": "Blazing Maiden"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791894",
+          "Text": "Hallowed Spirit"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791895",
+          "Text": "Elder Fairy"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791896",
+          "Text": "Mirage Master"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791897",
+          "Text": "Lunaria Angel"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791898",
+          "Text": "Stone Golem"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791899",
+          "Text": "Rock Puppet"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791900",
+          "Text": "Jewel Guard"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791901",
+          "Text": "Metal Golem"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791902",
+          "Text": "Meteorite Doll"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791903",
+          "Text": "Earth Master"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791904",
+          "Text": "Colossus Golem"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791905",
+          "Text": "Eternal Sculpture"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791906",
+          "Text": "Boulder Soldier"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791907",
+          "Text": "Living Armor"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791908",
+          "Text": "Ghost Armor"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791909",
+          "Text": "Honor Guard Armor"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791910",
+          "Text": "Gladiator"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791911",
+          "Text": "Legendary Warrior"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791912",
+          "Text": "Immortal Knight"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791913",
+          "Text": "Heavy Warrior Armor"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791914",
+          "Text": "Noble Paladin"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791915",
+          "Text": "Great Guardian"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791916",
+          "Text": "Stinger"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791917",
+          "Text": "Sharpened Scissors"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791918",
+          "Text": "Pile Bunker"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791919",
+          "Text": "Parching Demon"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791920",
+          "Text": "Dark Scout"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791921",
+          "Text": "Spine Rat"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791922",
+          "Text": "Ogre Head"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791923",
+          "Text": "Shadow Vanguard"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791924",
+          "Text": "Thrust Hedge"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791925",
+          "Text": "Shadow Eater"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791926",
+          "Text": "Mini Wyvern"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791927",
+          "Text": "Zephyr Feather"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791928",
+          "Text": "Evil Orchis"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791929",
+          "Text": "Mach Hawk"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791930",
+          "Text": "Watcher"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791931",
+          "Text": "Draconic Lord"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791932",
+          "Text": "Mega Wyvern"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791933",
+          "Text": "King of Storms"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791934",
+          "Text": "Cloud Liner"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791935",
+          "Text": "Hide Shark"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791936",
+          "Text": "Megamouth"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791937",
+          "Text": "Grand Tusk"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791938",
+          "Text": "Sandstorm Tyrant"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791939",
+          "Text": "Dark General"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791940",
+          "Text": "Cluster Beetle"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791941",
+          "Text": "Shadow Commander"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791942",
+          "Text": "Horn Demon"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791943",
+          "Text": "Old Castle Dragon"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791944",
+          "Text": "Dragon Lord"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791945",
+          "Text": "Great Wind Element"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791946",
+          "Text": "Great Dark Element"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791947",
+          "Text": "Great Fire Element"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791948",
+          "Text": "Great Ice Element"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791949",
+          "Text": "Great Lightning Element"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791950",
+          "Text": "Ravaging Queen"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791951",
+          "Text": "Queen of Shadows"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791952",
+          "Text": "Ravaging Queen"
+        }
+      },
+      {
+        "$": {
+          "String_No": "19791953",
+          "Text": "Queen of Shadows"
+        }
+      }
+    ]
+  }
+}

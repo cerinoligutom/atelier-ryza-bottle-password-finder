@@ -1,0 +1,2456 @@
+{
+  "Root": {
+    "FieldMixEnemy": [
+      {
+        "$": {
+          "No": "0",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_FAIRYFOREST_01_001_DAY"
+        }
+      },
+      {
+        "$": {
+          "No": "1",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_FAIRYFOREST_01_002_DAY"
+        }
+      },
+      {
+        "$": {
+          "No": "2",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_FAIRYFOREST_01_003_DAY"
+        }
+      },
+      {
+        "$": {
+          "No": "3",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_FAIRYFOREST_01_001_NIGHT"
+        }
+      },
+      {
+        "$": {
+          "No": "4",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_FAIRYFOREST_01_002_NIGHT"
+        }
+      },
+      {
+        "$": {
+          "No": "5",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_FAIRYFOREST_01_003_NIGHT"
+        }
+      },
+      {
+        "$": {
+          "No": "6",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_HIGHWAY_01_001_DAY"
+        }
+      },
+      {
+        "$": {
+          "No": "7",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_HIGHWAY_01_002_DAY"
+        }
+      },
+      {
+        "$": {
+          "No": "8",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_HIGHWAY_01_003_DAY"
+        }
+      },
+      {
+        "$": {
+          "No": "9",
+          "enemySymbolTag": "ENEMY_SYMBOL_S14_PUNI_00_001",
+          "encountGroupTag": "ENCOUNT_GROUP_HIGHWAY_01_001_NIGHT"
+        }
+      },
+      {
+        "$": {
+          "No": "10",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_000"
+        }
+      },
+      {
+        "$": {
+          "No": "11",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_001"
+        }
+      },
+      {
+        "$": {
+          "No": "12",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_002"
+        }
+      },
+      {
+        "$": {
+          "No": "13",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_003"
+        }
+      },
+      {
+        "$": {
+          "No": "14",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_004"
+        }
+      },
+      {
+        "$": {
+          "No": "15",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_005"
+        }
+      },
+      {
+        "$": {
+          "No": "16",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_006"
+        }
+      },
+      {
+        "$": {
+          "No": "17",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_007"
+        }
+      },
+      {
+        "$": {
+          "No": "18",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_008"
+        }
+      },
+      {
+        "$": {
+          "No": "19",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_009"
+        }
+      },
+      {
+        "$": {
+          "No": "20",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_010"
+        }
+      },
+      {
+        "$": {
+          "No": "21",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_011"
+        }
+      },
+      {
+        "$": {
+          "No": "22",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_012"
+        }
+      },
+      {
+        "$": {
+          "No": "23",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_013"
+        }
+      },
+      {
+        "$": {
+          "No": "24",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_014"
+        }
+      },
+      {
+        "$": {
+          "No": "25",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_015"
+        }
+      },
+      {
+        "$": {
+          "No": "26",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_016"
+        }
+      },
+      {
+        "$": {
+          "No": "27",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_017"
+        }
+      },
+      {
+        "$": {
+          "No": "28",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_018"
+        }
+      },
+      {
+        "$": {
+          "No": "29",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_019"
+        }
+      },
+      {
+        "$": {
+          "No": "30",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_020"
+        }
+      },
+      {
+        "$": {
+          "No": "31",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_021"
+        }
+      },
+      {
+        "$": {
+          "No": "32",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_022"
+        }
+      },
+      {
+        "$": {
+          "No": "33",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_023"
+        }
+      },
+      {
+        "$": {
+          "No": "34",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_024"
+        }
+      },
+      {
+        "$": {
+          "No": "35",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_025"
+        }
+      },
+      {
+        "$": {
+          "No": "36",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_026"
+        }
+      },
+      {
+        "$": {
+          "No": "37",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_027"
+        }
+      },
+      {
+        "$": {
+          "No": "38",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_028"
+        }
+      },
+      {
+        "$": {
+          "No": "39",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_029"
+        }
+      },
+      {
+        "$": {
+          "No": "40",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_030"
+        }
+      },
+      {
+        "$": {
+          "No": "41",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_031"
+        }
+      },
+      {
+        "$": {
+          "No": "42",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_032"
+        }
+      },
+      {
+        "$": {
+          "No": "43",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_033"
+        }
+      },
+      {
+        "$": {
+          "No": "44",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_034"
+        }
+      },
+      {
+        "$": {
+          "No": "45",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_035"
+        }
+      },
+      {
+        "$": {
+          "No": "46",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_036"
+        }
+      },
+      {
+        "$": {
+          "No": "47",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_037"
+        }
+      },
+      {
+        "$": {
+          "No": "48",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_038"
+        }
+      },
+      {
+        "$": {
+          "No": "49",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_039"
+        }
+      },
+      {
+        "$": {
+          "No": "50",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_040"
+        }
+      },
+      {
+        "$": {
+          "No": "51",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_041"
+        }
+      },
+      {
+        "$": {
+          "No": "52",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_042"
+        }
+      },
+      {
+        "$": {
+          "No": "53",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_043"
+        }
+      },
+      {
+        "$": {
+          "No": "54",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_044"
+        }
+      },
+      {
+        "$": {
+          "No": "55",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_045"
+        }
+      },
+      {
+        "$": {
+          "No": "56",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_046"
+        }
+      },
+      {
+        "$": {
+          "No": "57",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_047"
+        }
+      },
+      {
+        "$": {
+          "No": "58",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_048"
+        }
+      },
+      {
+        "$": {
+          "No": "59",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_049"
+        }
+      },
+      {
+        "$": {
+          "No": "60",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_050"
+        }
+      },
+      {
+        "$": {
+          "No": "61",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_051"
+        }
+      },
+      {
+        "$": {
+          "No": "62",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_052"
+        }
+      },
+      {
+        "$": {
+          "No": "63",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_053"
+        }
+      },
+      {
+        "$": {
+          "No": "64",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_054"
+        }
+      },
+      {
+        "$": {
+          "No": "65",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_055"
+        }
+      },
+      {
+        "$": {
+          "No": "66",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_056"
+        }
+      },
+      {
+        "$": {
+          "No": "67",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_057"
+        }
+      },
+      {
+        "$": {
+          "No": "68",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_058"
+        }
+      },
+      {
+        "$": {
+          "No": "69",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_059"
+        }
+      },
+      {
+        "$": {
+          "No": "70",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_060"
+        }
+      },
+      {
+        "$": {
+          "No": "71",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_061"
+        }
+      },
+      {
+        "$": {
+          "No": "72",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_062"
+        }
+      },
+      {
+        "$": {
+          "No": "73",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_063"
+        }
+      },
+      {
+        "$": {
+          "No": "74",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_064"
+        }
+      },
+      {
+        "$": {
+          "No": "75",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_065"
+        }
+      },
+      {
+        "$": {
+          "No": "76",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_066"
+        }
+      },
+      {
+        "$": {
+          "No": "77",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_067"
+        }
+      },
+      {
+        "$": {
+          "No": "78",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_068"
+        }
+      },
+      {
+        "$": {
+          "No": "79",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_069"
+        }
+      },
+      {
+        "$": {
+          "No": "80",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_070"
+        }
+      },
+      {
+        "$": {
+          "No": "81",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_071"
+        }
+      },
+      {
+        "$": {
+          "No": "82",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_072"
+        }
+      },
+      {
+        "$": {
+          "No": "83",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_073"
+        }
+      },
+      {
+        "$": {
+          "No": "84",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_074"
+        }
+      },
+      {
+        "$": {
+          "No": "85",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_075"
+        }
+      },
+      {
+        "$": {
+          "No": "86",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_076"
+        }
+      },
+      {
+        "$": {
+          "No": "87",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_077"
+        }
+      },
+      {
+        "$": {
+          "No": "88",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_078"
+        }
+      },
+      {
+        "$": {
+          "No": "89",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_079"
+        }
+      },
+      {
+        "$": {
+          "No": "90",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_080"
+        }
+      },
+      {
+        "$": {
+          "No": "91",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_081"
+        }
+      },
+      {
+        "$": {
+          "No": "92",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_082"
+        }
+      },
+      {
+        "$": {
+          "No": "93",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_083"
+        }
+      },
+      {
+        "$": {
+          "No": "94",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_084"
+        }
+      },
+      {
+        "$": {
+          "No": "95",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_085"
+        }
+      },
+      {
+        "$": {
+          "No": "96",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_086"
+        }
+      },
+      {
+        "$": {
+          "No": "97",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_087"
+        }
+      },
+      {
+        "$": {
+          "No": "98",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_088"
+        }
+      },
+      {
+        "$": {
+          "No": "99",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_089"
+        }
+      },
+      {
+        "$": {
+          "No": "100",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_090"
+        }
+      },
+      {
+        "$": {
+          "No": "101",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_091"
+        }
+      },
+      {
+        "$": {
+          "No": "102",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_092"
+        }
+      },
+      {
+        "$": {
+          "No": "103",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_093"
+        }
+      },
+      {
+        "$": {
+          "No": "104",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_094"
+        }
+      },
+      {
+        "$": {
+          "No": "105",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_095"
+        }
+      },
+      {
+        "$": {
+          "No": "106",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_096"
+        }
+      },
+      {
+        "$": {
+          "No": "107",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_097"
+        }
+      },
+      {
+        "$": {
+          "No": "108",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_098"
+        }
+      },
+      {
+        "$": {
+          "No": "109",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_099"
+        }
+      },
+      {
+        "$": {
+          "No": "110",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_100"
+        }
+      },
+      {
+        "$": {
+          "No": "111",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_101"
+        }
+      },
+      {
+        "$": {
+          "No": "112",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_102"
+        }
+      },
+      {
+        "$": {
+          "No": "113",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_103"
+        }
+      },
+      {
+        "$": {
+          "No": "114",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_104"
+        }
+      },
+      {
+        "$": {
+          "No": "115",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_105"
+        }
+      },
+      {
+        "$": {
+          "No": "116",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_106"
+        }
+      },
+      {
+        "$": {
+          "No": "117",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_107"
+        }
+      },
+      {
+        "$": {
+          "No": "118",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_108"
+        }
+      },
+      {
+        "$": {
+          "No": "119",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_109"
+        }
+      },
+      {
+        "$": {
+          "No": "120",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_110"
+        }
+      },
+      {
+        "$": {
+          "No": "121",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_111"
+        }
+      },
+      {
+        "$": {
+          "No": "122",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_112"
+        }
+      },
+      {
+        "$": {
+          "No": "123",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_113"
+        }
+      },
+      {
+        "$": {
+          "No": "124",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_114"
+        }
+      },
+      {
+        "$": {
+          "No": "125",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_115"
+        }
+      },
+      {
+        "$": {
+          "No": "126",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_116"
+        }
+      },
+      {
+        "$": {
+          "No": "127",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_117"
+        }
+      },
+      {
+        "$": {
+          "No": "128",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_118"
+        }
+      },
+      {
+        "$": {
+          "No": "129",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_119"
+        }
+      },
+      {
+        "$": {
+          "No": "130",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_04",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_120"
+        }
+      },
+      {
+        "$": {
+          "No": "131",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_121"
+        }
+      },
+      {
+        "$": {
+          "No": "132",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_122"
+        }
+      },
+      {
+        "$": {
+          "No": "133",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_123"
+        }
+      },
+      {
+        "$": {
+          "No": "134",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_124"
+        }
+      },
+      {
+        "$": {
+          "No": "135",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_125"
+        }
+      },
+      {
+        "$": {
+          "No": "136",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_126"
+        }
+      },
+      {
+        "$": {
+          "No": "137",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_127"
+        }
+      },
+      {
+        "$": {
+          "No": "138",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_128"
+        }
+      },
+      {
+        "$": {
+          "No": "139",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_129"
+        }
+      },
+      {
+        "$": {
+          "No": "140",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_04",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_130"
+        }
+      },
+      {
+        "$": {
+          "No": "141",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_131"
+        }
+      },
+      {
+        "$": {
+          "No": "142",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_132"
+        }
+      },
+      {
+        "$": {
+          "No": "143",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_133"
+        }
+      },
+      {
+        "$": {
+          "No": "144",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_134"
+        }
+      },
+      {
+        "$": {
+          "No": "145",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_135"
+        }
+      },
+      {
+        "$": {
+          "No": "146",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_136"
+        }
+      },
+      {
+        "$": {
+          "No": "147",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_137"
+        }
+      },
+      {
+        "$": {
+          "No": "148",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_138"
+        }
+      },
+      {
+        "$": {
+          "No": "149",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_139"
+        }
+      },
+      {
+        "$": {
+          "No": "150",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_04",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_140"
+        }
+      },
+      {
+        "$": {
+          "No": "151",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_141"
+        }
+      },
+      {
+        "$": {
+          "No": "152",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_142"
+        }
+      },
+      {
+        "$": {
+          "No": "153",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_143"
+        }
+      },
+      {
+        "$": {
+          "No": "154",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_04",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_144"
+        }
+      },
+      {
+        "$": {
+          "No": "155",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_145"
+        }
+      },
+      {
+        "$": {
+          "No": "156",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_146"
+        }
+      },
+      {
+        "$": {
+          "No": "157",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_147"
+        }
+      },
+      {
+        "$": {
+          "No": "158",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_04",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_148"
+        }
+      },
+      {
+        "$": {
+          "No": "159",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_149"
+        }
+      },
+      {
+        "$": {
+          "No": "160",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_04",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_150"
+        }
+      },
+      {
+        "$": {
+          "No": "161",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_151"
+        }
+      },
+      {
+        "$": {
+          "No": "162",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_152"
+        }
+      },
+      {
+        "$": {
+          "No": "163",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_153"
+        }
+      },
+      {
+        "$": {
+          "No": "164",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_154"
+        }
+      },
+      {
+        "$": {
+          "No": "165",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_155"
+        }
+      },
+      {
+        "$": {
+          "No": "166",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_156"
+        }
+      },
+      {
+        "$": {
+          "No": "167",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_157"
+        }
+      },
+      {
+        "$": {
+          "No": "168",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_158"
+        }
+      },
+      {
+        "$": {
+          "No": "169",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_159"
+        }
+      },
+      {
+        "$": {
+          "No": "170",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SCORPION_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_160"
+        }
+      },
+      {
+        "$": {
+          "No": "171",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SCORPION_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_161"
+        }
+      },
+      {
+        "$": {
+          "No": "172",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SCORPION_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_162"
+        }
+      },
+      {
+        "$": {
+          "No": "173",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SCORPION_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_163"
+        }
+      },
+      {
+        "$": {
+          "No": "174",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_RAT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_164"
+        }
+      },
+      {
+        "$": {
+          "No": "175",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_RAT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_165"
+        }
+      },
+      {
+        "$": {
+          "No": "176",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_RAT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_166"
+        }
+      },
+      {
+        "$": {
+          "No": "177",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_RAT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_167"
+        }
+      },
+      {
+        "$": {
+          "No": "178",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_BEETLE_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_168"
+        }
+      },
+      {
+        "$": {
+          "No": "179",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_BEETLE_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_ID_169"
+        }
+      },
+      {
+        "$": {
+          "No": "180",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_000"
+        }
+      },
+      {
+        "$": {
+          "No": "181",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_001"
+        }
+      },
+      {
+        "$": {
+          "No": "182",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_002"
+        }
+      },
+      {
+        "$": {
+          "No": "183",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_003"
+        }
+      },
+      {
+        "$": {
+          "No": "184",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_004"
+        }
+      },
+      {
+        "$": {
+          "No": "185",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_005"
+        }
+      },
+      {
+        "$": {
+          "No": "186",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_006"
+        }
+      },
+      {
+        "$": {
+          "No": "187",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_007"
+        }
+      },
+      {
+        "$": {
+          "No": "188",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_008"
+        }
+      },
+      {
+        "$": {
+          "No": "189",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_009"
+        }
+      },
+      {
+        "$": {
+          "No": "190",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_010"
+        }
+      },
+      {
+        "$": {
+          "No": "191",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_011"
+        }
+      },
+      {
+        "$": {
+          "No": "192",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_012"
+        }
+      },
+      {
+        "$": {
+          "No": "193",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_013"
+        }
+      },
+      {
+        "$": {
+          "No": "194",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_014"
+        }
+      },
+      {
+        "$": {
+          "No": "195",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_015"
+        }
+      },
+      {
+        "$": {
+          "No": "196",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_016"
+        }
+      },
+      {
+        "$": {
+          "No": "197",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_017"
+        }
+      },
+      {
+        "$": {
+          "No": "198",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_018"
+        }
+      },
+      {
+        "$": {
+          "No": "199",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_019"
+        }
+      },
+      {
+        "$": {
+          "No": "200",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_020"
+        }
+      },
+      {
+        "$": {
+          "No": "201",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_021"
+        }
+      },
+      {
+        "$": {
+          "No": "202",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_022"
+        }
+      },
+      {
+        "$": {
+          "No": "203",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_023"
+        }
+      },
+      {
+        "$": {
+          "No": "204",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_024"
+        }
+      },
+      {
+        "$": {
+          "No": "205",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_025"
+        }
+      },
+      {
+        "$": {
+          "No": "206",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_026"
+        }
+      },
+      {
+        "$": {
+          "No": "207",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_027"
+        }
+      },
+      {
+        "$": {
+          "No": "208",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_028"
+        }
+      },
+      {
+        "$": {
+          "No": "209",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_029"
+        }
+      },
+      {
+        "$": {
+          "No": "210",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_030"
+        }
+      },
+      {
+        "$": {
+          "No": "211",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_031"
+        }
+      },
+      {
+        "$": {
+          "No": "212",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_032"
+        }
+      },
+      {
+        "$": {
+          "No": "213",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_033"
+        }
+      },
+      {
+        "$": {
+          "No": "214",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_034"
+        }
+      },
+      {
+        "$": {
+          "No": "215",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_035"
+        }
+      },
+      {
+        "$": {
+          "No": "216",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_036"
+        }
+      },
+      {
+        "$": {
+          "No": "217",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_WEASEL_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_037"
+        }
+      },
+      {
+        "$": {
+          "No": "218",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_038"
+        }
+      },
+      {
+        "$": {
+          "No": "219",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_039"
+        }
+      },
+      {
+        "$": {
+          "No": "220",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_040"
+        }
+      },
+      {
+        "$": {
+          "No": "221",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_041"
+        }
+      },
+      {
+        "$": {
+          "No": "222",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_042"
+        }
+      },
+      {
+        "$": {
+          "No": "223",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_043"
+        }
+      },
+      {
+        "$": {
+          "No": "224",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_044"
+        }
+      },
+      {
+        "$": {
+          "No": "225",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_045"
+        }
+      },
+      {
+        "$": {
+          "No": "226",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_046"
+        }
+      },
+      {
+        "$": {
+          "No": "227",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_047"
+        }
+      },
+      {
+        "$": {
+          "No": "228",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_048"
+        }
+      },
+      {
+        "$": {
+          "No": "229",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_049"
+        }
+      },
+      {
+        "$": {
+          "No": "230",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_050"
+        }
+      },
+      {
+        "$": {
+          "No": "231",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_051"
+        }
+      },
+      {
+        "$": {
+          "No": "232",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_052"
+        }
+      },
+      {
+        "$": {
+          "No": "233",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_053"
+        }
+      },
+      {
+        "$": {
+          "No": "234",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_054"
+        }
+      },
+      {
+        "$": {
+          "No": "235",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_055"
+        }
+      },
+      {
+        "$": {
+          "No": "236",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_056"
+        }
+      },
+      {
+        "$": {
+          "No": "237",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_057"
+        }
+      },
+      {
+        "$": {
+          "No": "238",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_058"
+        }
+      },
+      {
+        "$": {
+          "No": "239",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_059"
+        }
+      },
+      {
+        "$": {
+          "No": "240",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_060"
+        }
+      },
+      {
+        "$": {
+          "No": "241",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_061"
+        }
+      },
+      {
+        "$": {
+          "No": "242",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_062"
+        }
+      },
+      {
+        "$": {
+          "No": "243",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_063"
+        }
+      },
+      {
+        "$": {
+          "No": "244",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_064"
+        }
+      },
+      {
+        "$": {
+          "No": "245",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_065"
+        }
+      },
+      {
+        "$": {
+          "No": "246",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_066"
+        }
+      },
+      {
+        "$": {
+          "No": "247",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_067"
+        }
+      },
+      {
+        "$": {
+          "No": "248",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_068"
+        }
+      },
+      {
+        "$": {
+          "No": "249",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_069"
+        }
+      },
+      {
+        "$": {
+          "No": "250",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_070"
+        }
+      },
+      {
+        "$": {
+          "No": "251",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_071"
+        }
+      },
+      {
+        "$": {
+          "No": "252",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_072"
+        }
+      },
+      {
+        "$": {
+          "No": "253",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_073"
+        }
+      },
+      {
+        "$": {
+          "No": "254",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_074"
+        }
+      },
+      {
+        "$": {
+          "No": "255",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_075"
+        }
+      },
+      {
+        "$": {
+          "No": "256",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_076"
+        }
+      },
+      {
+        "$": {
+          "No": "257",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_077"
+        }
+      },
+      {
+        "$": {
+          "No": "258",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_078"
+        }
+      },
+      {
+        "$": {
+          "No": "259",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIGOLEM_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_079"
+        }
+      },
+      {
+        "$": {
+          "No": "260",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_080"
+        }
+      },
+      {
+        "$": {
+          "No": "261",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_081"
+        }
+      },
+      {
+        "$": {
+          "No": "262",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_082"
+        }
+      },
+      {
+        "$": {
+          "No": "263",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_083"
+        }
+      },
+      {
+        "$": {
+          "No": "264",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_084"
+        }
+      },
+      {
+        "$": {
+          "No": "265",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_085"
+        }
+      },
+      {
+        "$": {
+          "No": "266",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_086"
+        }
+      },
+      {
+        "$": {
+          "No": "267",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_087"
+        }
+      },
+      {
+        "$": {
+          "No": "268",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_088"
+        }
+      },
+      {
+        "$": {
+          "No": "269",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_089"
+        }
+      },
+      {
+        "$": {
+          "No": "270",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_090"
+        }
+      },
+      {
+        "$": {
+          "No": "271",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_091"
+        }
+      },
+      {
+        "$": {
+          "No": "272",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_092"
+        }
+      },
+      {
+        "$": {
+          "No": "273",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_093"
+        }
+      },
+      {
+        "$": {
+          "No": "274",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_094"
+        }
+      },
+      {
+        "$": {
+          "No": "275",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_095"
+        }
+      },
+      {
+        "$": {
+          "No": "276",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_096"
+        }
+      },
+      {
+        "$": {
+          "No": "277",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_097"
+        }
+      },
+      {
+        "$": {
+          "No": "278",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_098"
+        }
+      },
+      {
+        "$": {
+          "No": "279",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_099"
+        }
+      },
+      {
+        "$": {
+          "No": "280",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_100"
+        }
+      },
+      {
+        "$": {
+          "No": "281",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_101"
+        }
+      },
+      {
+        "$": {
+          "No": "282",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_102"
+        }
+      },
+      {
+        "$": {
+          "No": "283",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_103"
+        }
+      },
+      {
+        "$": {
+          "No": "284",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_104"
+        }
+      },
+      {
+        "$": {
+          "No": "285",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_105"
+        }
+      },
+      {
+        "$": {
+          "No": "286",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_106"
+        }
+      },
+      {
+        "$": {
+          "No": "287",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_107"
+        }
+      },
+      {
+        "$": {
+          "No": "288",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_108"
+        }
+      },
+      {
+        "$": {
+          "No": "289",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_109"
+        }
+      },
+      {
+        "$": {
+          "No": "290",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_110"
+        }
+      },
+      {
+        "$": {
+          "No": "291",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_111"
+        }
+      },
+      {
+        "$": {
+          "No": "292",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_112"
+        }
+      },
+      {
+        "$": {
+          "No": "293",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_113"
+        }
+      },
+      {
+        "$": {
+          "No": "294",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_114"
+        }
+      },
+      {
+        "$": {
+          "No": "295",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_115"
+        }
+      },
+      {
+        "$": {
+          "No": "296",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_MINIDRAGON_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_116"
+        }
+      },
+      {
+        "$": {
+          "No": "297",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SHARK_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_117"
+        }
+      },
+      {
+        "$": {
+          "No": "298",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_118"
+        }
+      },
+      {
+        "$": {
+          "No": "299",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_119"
+        }
+      },
+      {
+        "$": {
+          "No": "300",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_120"
+        }
+      },
+      {
+        "$": {
+          "No": "301",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_121"
+        }
+      },
+      {
+        "$": {
+          "No": "302",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_122"
+        }
+      },
+      {
+        "$": {
+          "No": "303",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_123"
+        }
+      },
+      {
+        "$": {
+          "No": "304",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_124"
+        }
+      },
+      {
+        "$": {
+          "No": "305",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_125"
+        }
+      },
+      {
+        "$": {
+          "No": "306",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_126"
+        }
+      },
+      {
+        "$": {
+          "No": "307",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_127"
+        }
+      },
+      {
+        "$": {
+          "No": "308",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_128"
+        }
+      },
+      {
+        "$": {
+          "No": "309",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_129"
+        }
+      },
+      {
+        "$": {
+          "No": "310",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_130"
+        }
+      },
+      {
+        "$": {
+          "No": "311",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_131"
+        }
+      },
+      {
+        "$": {
+          "No": "312",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_132"
+        }
+      },
+      {
+        "$": {
+          "No": "313",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_133"
+        }
+      },
+      {
+        "$": {
+          "No": "314",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_134"
+        }
+      },
+      {
+        "$": {
+          "No": "315",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_135"
+        }
+      },
+      {
+        "$": {
+          "No": "316",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_136"
+        }
+      },
+      {
+        "$": {
+          "No": "317",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_137"
+        }
+      },
+      {
+        "$": {
+          "No": "318",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_138"
+        }
+      },
+      {
+        "$": {
+          "No": "319",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_139"
+        }
+      },
+      {
+        "$": {
+          "No": "320",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_140"
+        }
+      },
+      {
+        "$": {
+          "No": "321",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_141"
+        }
+      },
+      {
+        "$": {
+          "No": "322",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_142"
+        }
+      },
+      {
+        "$": {
+          "No": "323",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_143"
+        }
+      },
+      {
+        "$": {
+          "No": "324",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_144"
+        }
+      },
+      {
+        "$": {
+          "No": "325",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_145"
+        }
+      },
+      {
+        "$": {
+          "No": "326",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_146"
+        }
+      },
+      {
+        "$": {
+          "No": "327",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_147"
+        }
+      },
+      {
+        "$": {
+          "No": "328",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_148"
+        }
+      },
+      {
+        "$": {
+          "No": "329",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_149"
+        }
+      },
+      {
+        "$": {
+          "No": "330",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_PUNI_05",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_150"
+        }
+      },
+      {
+        "$": {
+          "No": "331",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_151"
+        }
+      },
+      {
+        "$": {
+          "No": "332",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_152"
+        }
+      },
+      {
+        "$": {
+          "No": "333",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_153"
+        }
+      },
+      {
+        "$": {
+          "No": "334",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_154"
+        }
+      },
+      {
+        "$": {
+          "No": "335",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_155"
+        }
+      },
+      {
+        "$": {
+          "No": "336",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_156"
+        }
+      },
+      {
+        "$": {
+          "No": "337",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SPIRIT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_157"
+        }
+      },
+      {
+        "$": {
+          "No": "338",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_158"
+        }
+      },
+      {
+        "$": {
+          "No": "339",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_KNIGHT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_159"
+        }
+      },
+      {
+        "$": {
+          "No": "340",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SCORPION_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_160"
+        }
+      },
+      {
+        "$": {
+          "No": "341",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SCORPION_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_161"
+        }
+      },
+      {
+        "$": {
+          "No": "342",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_SCORPION_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_162"
+        }
+      },
+      {
+        "$": {
+          "No": "343",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_RAT_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_163"
+        }
+      },
+      {
+        "$": {
+          "No": "344",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_RAT_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_164"
+        }
+      },
+      {
+        "$": {
+          "No": "345",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_RAT_02",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_165"
+        }
+      },
+      {
+        "$": {
+          "No": "346",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_RAT_03",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_166"
+        }
+      },
+      {
+        "$": {
+          "No": "347",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_BEETLE_00",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_167"
+        }
+      },
+      {
+        "$": {
+          "No": "348",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_BEETLE_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_168"
+        }
+      },
+      {
+        "$": {
+          "No": "349",
+          "enemySymbolTag": "ENEMY_SYMBOL_FLDMIX_SYMBOL_BEETLE_01",
+          "encountGroupTag": "ENCOUNT_GROUP_FLD_MIX_ENC_BOSS_ID_169"
+        }
+      }
+    ]
+  }
+}

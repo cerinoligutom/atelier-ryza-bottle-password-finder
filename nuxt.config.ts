@@ -40,5 +40,17 @@ export default defineNuxtConfig({
     ],
     'nuxt-icon',
     '@nuxtjs/web-vitals',
+    'nuxt-lodash',
+    [
+      'nuxt-graphql-server',
+      {
+        url: '/api/graphql',
+        schema: './src/server/**/*.graphql',
+        codegen: {
+          enumValues: '~/enums/index',
+          contextType: '~/server/graphql/IGraphQLContext#IGraphQLContext',
+        },
+      },
+    ],
   ],
 });

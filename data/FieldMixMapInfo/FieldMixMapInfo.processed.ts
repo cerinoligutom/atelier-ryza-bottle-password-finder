@@ -1,0 +1,1634 @@
+export default [
+  {
+    "bossId": "180",
+    "enemyId": "10",
+    "no": "0",
+    "stringId": "STR_FIELD_MIX_MAP_000"
+  },
+  {
+    "bossId": "181",
+    "enemyId": "11",
+    "no": "1",
+    "stringId": "STR_FIELD_MIX_MAP_001"
+  },
+  {
+    "bossId": "182",
+    "enemyId": "12",
+    "no": "2",
+    "stringId": "STR_FIELD_MIX_MAP_002"
+  },
+  {
+    "bossId": "183",
+    "enemyId": "13",
+    "no": "3",
+    "stringId": "STR_FIELD_MIX_MAP_003"
+  },
+  {
+    "bossId": "184",
+    "enemyId": "14",
+    "no": "4",
+    "stringId": "STR_FIELD_MIX_MAP_004"
+  },
+  {
+    "bossId": "185",
+    "enemyId": "15",
+    "no": "5",
+    "stringId": "STR_FIELD_MIX_MAP_005"
+  },
+  {
+    "bossId": "186",
+    "enemyId": "16",
+    "no": "6",
+    "stringId": "STR_FIELD_MIX_MAP_006"
+  },
+  {
+    "bossId": "187",
+    "enemyId": "17",
+    "no": "7",
+    "stringId": "STR_FIELD_MIX_MAP_007"
+  },
+  {
+    "bossId": "188",
+    "enemyId": "18",
+    "no": "8",
+    "stringId": "STR_FIELD_MIX_MAP_008"
+  },
+  {
+    "bossId": "189",
+    "enemyId": "19",
+    "no": "9",
+    "stringId": "STR_FIELD_MIX_MAP_009"
+  },
+  {
+    "bossId": "190",
+    "enemyId": "20",
+    "no": "10",
+    "stringId": "STR_FIELD_MIX_MAP_010"
+  },
+  {
+    "bossId": "191",
+    "enemyId": "21",
+    "no": "11",
+    "stringId": "STR_FIELD_MIX_MAP_011"
+  },
+  {
+    "bossId": "192",
+    "enemyId": "22",
+    "no": "12",
+    "stringId": "STR_FIELD_MIX_MAP_012"
+  },
+  {
+    "bossId": "193",
+    "enemyId": "23",
+    "no": "13",
+    "stringId": "STR_FIELD_MIX_MAP_013"
+  },
+  {
+    "bossId": "194",
+    "enemyId": "24",
+    "no": "14",
+    "stringId": "STR_FIELD_MIX_MAP_014"
+  },
+  {
+    "bossId": "195",
+    "enemyId": "25",
+    "no": "15",
+    "stringId": "STR_FIELD_MIX_MAP_015"
+  },
+  {
+    "bossId": "196",
+    "enemyId": "26",
+    "no": "16",
+    "stringId": "STR_FIELD_MIX_MAP_016"
+  },
+  {
+    "bossId": "197",
+    "enemyId": "27",
+    "no": "17",
+    "stringId": "STR_FIELD_MIX_MAP_017"
+  },
+  {
+    "bossId": "198",
+    "enemyId": "28",
+    "no": "18",
+    "stringId": "STR_FIELD_MIX_MAP_018"
+  },
+  {
+    "bossId": "199",
+    "enemyId": "29",
+    "no": "19",
+    "stringId": "STR_FIELD_MIX_MAP_019"
+  },
+  {
+    "bossId": "200",
+    "enemyId": "30",
+    "no": "20",
+    "stringId": "STR_FIELD_MIX_MAP_020"
+  },
+  {
+    "bossId": "201",
+    "enemyId": "31",
+    "no": "21",
+    "stringId": "STR_FIELD_MIX_MAP_021"
+  },
+  {
+    "bossId": "202",
+    "enemyId": "32",
+    "no": "22",
+    "stringId": "STR_FIELD_MIX_MAP_022"
+  },
+  {
+    "bossId": "203",
+    "enemyId": "33",
+    "no": "23",
+    "stringId": "STR_FIELD_MIX_MAP_023"
+  },
+  {
+    "bossId": "204",
+    "enemyId": "34",
+    "no": "24",
+    "stringId": "STR_FIELD_MIX_MAP_024"
+  },
+  {
+    "bossId": "205",
+    "enemyId": "35",
+    "no": "25",
+    "stringId": "STR_FIELD_MIX_MAP_025"
+  },
+  {
+    "bossId": "206",
+    "enemyId": "36",
+    "no": "26",
+    "stringId": "STR_FIELD_MIX_MAP_026"
+  },
+  {
+    "bossId": "207",
+    "enemyId": "37",
+    "no": "27",
+    "stringId": "STR_FIELD_MIX_MAP_027"
+  },
+  {
+    "bossId": "208",
+    "enemyId": "38",
+    "no": "28",
+    "stringId": "STR_FIELD_MIX_MAP_028"
+  },
+  {
+    "bossId": "209",
+    "enemyId": "39",
+    "no": "29",
+    "stringId": "STR_FIELD_MIX_MAP_029"
+  },
+  {
+    "bossId": "210",
+    "enemyId": "40",
+    "no": "30",
+    "stringId": "STR_FIELD_MIX_MAP_030"
+  },
+  {
+    "bossId": "211",
+    "enemyId": "41",
+    "no": "31",
+    "stringId": "STR_FIELD_MIX_MAP_031"
+  },
+  {
+    "bossId": "212",
+    "enemyId": "42",
+    "no": "32",
+    "stringId": "STR_FIELD_MIX_MAP_032"
+  },
+  {
+    "bossId": "213",
+    "enemyId": "43",
+    "no": "33",
+    "stringId": "STR_FIELD_MIX_MAP_033"
+  },
+  {
+    "bossId": "214",
+    "enemyId": "44",
+    "no": "34",
+    "stringId": "STR_FIELD_MIX_MAP_034"
+  },
+  {
+    "bossId": "215",
+    "enemyId": "45",
+    "no": "35",
+    "stringId": "STR_FIELD_MIX_MAP_035"
+  },
+  {
+    "bossId": "216",
+    "enemyId": "46",
+    "no": "36",
+    "stringId": "STR_FIELD_MIX_MAP_036"
+  },
+  {
+    "bossId": "217",
+    "enemyId": "47",
+    "no": "37",
+    "stringId": "STR_FIELD_MIX_MAP_037"
+  },
+  {
+    "bossId": "218",
+    "enemyId": "48",
+    "no": "38",
+    "stringId": "STR_FIELD_MIX_MAP_038"
+  },
+  {
+    "bossId": "219",
+    "enemyId": "49",
+    "no": "39",
+    "stringId": "STR_FIELD_MIX_MAP_039"
+  },
+  {
+    "bossId": "220",
+    "enemyId": "50",
+    "no": "40",
+    "stringId": "STR_FIELD_MIX_MAP_040"
+  },
+  {
+    "bossId": "221",
+    "enemyId": "51",
+    "no": "41",
+    "stringId": "STR_FIELD_MIX_MAP_041"
+  },
+  {
+    "bossId": "222",
+    "enemyId": "52",
+    "no": "42",
+    "stringId": "STR_FIELD_MIX_MAP_042"
+  },
+  {
+    "bossId": "223",
+    "enemyId": "53",
+    "no": "43",
+    "stringId": "STR_FIELD_MIX_MAP_043"
+  },
+  {
+    "bossId": "224",
+    "enemyId": "54",
+    "no": "44",
+    "stringId": "STR_FIELD_MIX_MAP_044"
+  },
+  {
+    "bossId": "225",
+    "enemyId": "55",
+    "no": "45",
+    "stringId": "STR_FIELD_MIX_MAP_045"
+  },
+  {
+    "bossId": "226",
+    "enemyId": "56",
+    "no": "46",
+    "stringId": "STR_FIELD_MIX_MAP_046"
+  },
+  {
+    "bossId": "227",
+    "enemyId": "57",
+    "no": "47",
+    "stringId": "STR_FIELD_MIX_MAP_047"
+  },
+  {
+    "bossId": "228",
+    "enemyId": "58",
+    "no": "48",
+    "stringId": "STR_FIELD_MIX_MAP_048"
+  },
+  {
+    "bossId": "229",
+    "enemyId": "59",
+    "no": "49",
+    "stringId": "STR_FIELD_MIX_MAP_049"
+  },
+  {
+    "bossId": "230",
+    "enemyId": "60",
+    "no": "50",
+    "stringId": "STR_FIELD_MIX_MAP_050"
+  },
+  {
+    "bossId": "231",
+    "enemyId": "61",
+    "no": "51",
+    "stringId": "STR_FIELD_MIX_MAP_051"
+  },
+  {
+    "bossId": "232",
+    "enemyId": "62",
+    "no": "52",
+    "stringId": "STR_FIELD_MIX_MAP_052"
+  },
+  {
+    "bossId": "233",
+    "enemyId": "63",
+    "no": "53",
+    "stringId": "STR_FIELD_MIX_MAP_053"
+  },
+  {
+    "bossId": "234",
+    "enemyId": "64",
+    "no": "54",
+    "stringId": "STR_FIELD_MIX_MAP_054"
+  },
+  {
+    "bossId": "235",
+    "enemyId": "65",
+    "no": "55",
+    "stringId": "STR_FIELD_MIX_MAP_055"
+  },
+  {
+    "bossId": "236",
+    "enemyId": "66",
+    "no": "56",
+    "stringId": "STR_FIELD_MIX_MAP_056"
+  },
+  {
+    "bossId": "237",
+    "enemyId": "67",
+    "no": "57",
+    "stringId": "STR_FIELD_MIX_MAP_057"
+  },
+  {
+    "bossId": "238",
+    "enemyId": "68",
+    "no": "58",
+    "stringId": "STR_FIELD_MIX_MAP_058"
+  },
+  {
+    "bossId": "239",
+    "enemyId": "69",
+    "no": "59",
+    "stringId": "STR_FIELD_MIX_MAP_059"
+  },
+  {
+    "bossId": "240",
+    "enemyId": "70",
+    "no": "60",
+    "stringId": "STR_FIELD_MIX_MAP_060"
+  },
+  {
+    "bossId": "241",
+    "enemyId": "71",
+    "no": "61",
+    "stringId": "STR_FIELD_MIX_MAP_061"
+  },
+  {
+    "bossId": "242",
+    "enemyId": "72",
+    "no": "62",
+    "stringId": "STR_FIELD_MIX_MAP_062"
+  },
+  {
+    "bossId": "243",
+    "enemyId": "73",
+    "no": "63",
+    "stringId": "STR_FIELD_MIX_MAP_063"
+  },
+  {
+    "bossId": "244",
+    "enemyId": "74",
+    "no": "64",
+    "stringId": "STR_FIELD_MIX_MAP_064"
+  },
+  {
+    "bossId": "245",
+    "enemyId": "75",
+    "no": "65",
+    "stringId": "STR_FIELD_MIX_MAP_065"
+  },
+  {
+    "bossId": "246",
+    "enemyId": "76",
+    "no": "66",
+    "stringId": "STR_FIELD_MIX_MAP_066"
+  },
+  {
+    "bossId": "247",
+    "enemyId": "77",
+    "no": "67",
+    "stringId": "STR_FIELD_MIX_MAP_067"
+  },
+  {
+    "bossId": "248",
+    "enemyId": "78",
+    "no": "68",
+    "stringId": "STR_FIELD_MIX_MAP_068"
+  },
+  {
+    "bossId": "249",
+    "enemyId": "79",
+    "no": "69",
+    "stringId": "STR_FIELD_MIX_MAP_069"
+  },
+  {
+    "bossId": "250",
+    "enemyId": "80",
+    "no": "70",
+    "stringId": "STR_FIELD_MIX_MAP_070"
+  },
+  {
+    "bossId": "251",
+    "enemyId": "81",
+    "no": "71",
+    "stringId": "STR_FIELD_MIX_MAP_071"
+  },
+  {
+    "bossId": "252",
+    "enemyId": "82",
+    "no": "72",
+    "stringId": "STR_FIELD_MIX_MAP_072"
+  },
+  {
+    "bossId": "253",
+    "enemyId": "83",
+    "no": "73",
+    "stringId": "STR_FIELD_MIX_MAP_073"
+  },
+  {
+    "bossId": "254",
+    "enemyId": "84",
+    "no": "74",
+    "stringId": "STR_FIELD_MIX_MAP_074"
+  },
+  {
+    "bossId": "255",
+    "enemyId": "85",
+    "no": "75",
+    "stringId": "STR_FIELD_MIX_MAP_075"
+  },
+  {
+    "bossId": "256",
+    "enemyId": "86",
+    "no": "76",
+    "stringId": "STR_FIELD_MIX_MAP_076"
+  },
+  {
+    "bossId": "257",
+    "enemyId": "87",
+    "no": "77",
+    "stringId": "STR_FIELD_MIX_MAP_077"
+  },
+  {
+    "bossId": "258",
+    "enemyId": "88",
+    "no": "78",
+    "stringId": "STR_FIELD_MIX_MAP_078"
+  },
+  {
+    "bossId": "259",
+    "enemyId": "89",
+    "no": "79",
+    "stringId": "STR_FIELD_MIX_MAP_079"
+  },
+  {
+    "bossId": "260",
+    "enemyId": "90",
+    "no": "80",
+    "stringId": "STR_FIELD_MIX_MAP_080"
+  },
+  {
+    "bossId": "261",
+    "enemyId": "91",
+    "no": "81",
+    "stringId": "STR_FIELD_MIX_MAP_081"
+  },
+  {
+    "bossId": "262",
+    "enemyId": "92",
+    "no": "82",
+    "stringId": "STR_FIELD_MIX_MAP_082"
+  },
+  {
+    "bossId": "263",
+    "enemyId": "93",
+    "no": "83",
+    "stringId": "STR_FIELD_MIX_MAP_083"
+  },
+  {
+    "bossId": "264",
+    "enemyId": "94",
+    "no": "84",
+    "stringId": "STR_FIELD_MIX_MAP_084"
+  },
+  {
+    "bossId": "265",
+    "enemyId": "95",
+    "no": "85",
+    "stringId": "STR_FIELD_MIX_MAP_085"
+  },
+  {
+    "bossId": "266",
+    "enemyId": "96",
+    "no": "86",
+    "stringId": "STR_FIELD_MIX_MAP_086"
+  },
+  {
+    "bossId": "267",
+    "enemyId": "97",
+    "no": "87",
+    "stringId": "STR_FIELD_MIX_MAP_087"
+  },
+  {
+    "bossId": "268",
+    "enemyId": "98",
+    "no": "88",
+    "stringId": "STR_FIELD_MIX_MAP_088"
+  },
+  {
+    "bossId": "269",
+    "enemyId": "99",
+    "no": "89",
+    "stringId": "STR_FIELD_MIX_MAP_089"
+  },
+  {
+    "bossId": "270",
+    "enemyId": "100",
+    "no": "90",
+    "stringId": "STR_FIELD_MIX_MAP_090"
+  },
+  {
+    "bossId": "271",
+    "enemyId": "101",
+    "no": "91",
+    "stringId": "STR_FIELD_MIX_MAP_091"
+  },
+  {
+    "bossId": "272",
+    "enemyId": "102",
+    "no": "92",
+    "stringId": "STR_FIELD_MIX_MAP_092"
+  },
+  {
+    "bossId": "273",
+    "enemyId": "103",
+    "no": "93",
+    "stringId": "STR_FIELD_MIX_MAP_093"
+  },
+  {
+    "bossId": "274",
+    "enemyId": "104",
+    "no": "94",
+    "stringId": "STR_FIELD_MIX_MAP_094"
+  },
+  {
+    "bossId": "275",
+    "enemyId": "105",
+    "no": "95",
+    "stringId": "STR_FIELD_MIX_MAP_095"
+  },
+  {
+    "bossId": "276",
+    "enemyId": "106",
+    "no": "96",
+    "stringId": "STR_FIELD_MIX_MAP_096"
+  },
+  {
+    "bossId": "277",
+    "enemyId": "107",
+    "no": "97",
+    "stringId": "STR_FIELD_MIX_MAP_097"
+  },
+  {
+    "bossId": "278",
+    "enemyId": "108",
+    "no": "98",
+    "stringId": "STR_FIELD_MIX_MAP_098"
+  },
+  {
+    "bossId": "279",
+    "enemyId": "109",
+    "no": "99",
+    "stringId": "STR_FIELD_MIX_MAP_099"
+  },
+  {
+    "bossId": "280",
+    "enemyId": "110",
+    "no": "100",
+    "stringId": "STR_FIELD_MIX_MAP_100"
+  },
+  {
+    "bossId": "281",
+    "enemyId": "111",
+    "no": "101",
+    "stringId": "STR_FIELD_MIX_MAP_101"
+  },
+  {
+    "bossId": "282",
+    "enemyId": "112",
+    "no": "102",
+    "stringId": "STR_FIELD_MIX_MAP_102"
+  },
+  {
+    "bossId": "283",
+    "enemyId": "113",
+    "no": "103",
+    "stringId": "STR_FIELD_MIX_MAP_103"
+  },
+  {
+    "bossId": "284",
+    "enemyId": "114",
+    "no": "104",
+    "stringId": "STR_FIELD_MIX_MAP_104"
+  },
+  {
+    "bossId": "285",
+    "enemyId": "115",
+    "no": "105",
+    "stringId": "STR_FIELD_MIX_MAP_105"
+  },
+  {
+    "bossId": "286",
+    "enemyId": "116",
+    "no": "106",
+    "stringId": "STR_FIELD_MIX_MAP_106"
+  },
+  {
+    "bossId": "287",
+    "enemyId": "117",
+    "no": "107",
+    "stringId": "STR_FIELD_MIX_MAP_107"
+  },
+  {
+    "bossId": "288",
+    "enemyId": "118",
+    "no": "108",
+    "stringId": "STR_FIELD_MIX_MAP_108"
+  },
+  {
+    "bossId": "289",
+    "enemyId": "119",
+    "no": "109",
+    "stringId": "STR_FIELD_MIX_MAP_109"
+  },
+  {
+    "bossId": "290",
+    "enemyId": "120",
+    "no": "110",
+    "stringId": "STR_FIELD_MIX_MAP_110"
+  },
+  {
+    "bossId": "291",
+    "enemyId": "121",
+    "no": "111",
+    "stringId": "STR_FIELD_MIX_MAP_111"
+  },
+  {
+    "bossId": "292",
+    "enemyId": "122",
+    "no": "112",
+    "stringId": "STR_FIELD_MIX_MAP_112"
+  },
+  {
+    "bossId": "293",
+    "enemyId": "123",
+    "no": "113",
+    "stringId": "STR_FIELD_MIX_MAP_113"
+  },
+  {
+    "bossId": "294",
+    "enemyId": "124",
+    "no": "114",
+    "stringId": "STR_FIELD_MIX_MAP_114"
+  },
+  {
+    "bossId": "295",
+    "enemyId": "125",
+    "no": "115",
+    "stringId": "STR_FIELD_MIX_MAP_115"
+  },
+  {
+    "bossId": "296",
+    "enemyId": "126",
+    "no": "116",
+    "stringId": "STR_FIELD_MIX_MAP_116"
+  },
+  {
+    "bossId": "297",
+    "enemyId": "127",
+    "no": "117",
+    "stringId": "STR_FIELD_MIX_MAP_117"
+  },
+  {
+    "bossId": "298",
+    "enemyId": "128",
+    "no": "118",
+    "stringId": "STR_FIELD_MIX_MAP_118"
+  },
+  {
+    "bossId": "299",
+    "enemyId": "129",
+    "no": "119",
+    "stringId": "STR_FIELD_MIX_MAP_119"
+  },
+  {
+    "bossId": "300",
+    "enemyId": "130",
+    "no": "120",
+    "stringId": "STR_FIELD_MIX_MAP_120"
+  },
+  {
+    "bossId": "301",
+    "enemyId": "131",
+    "no": "121",
+    "stringId": "STR_FIELD_MIX_MAP_121"
+  },
+  {
+    "bossId": "302",
+    "enemyId": "132",
+    "no": "122",
+    "stringId": "STR_FIELD_MIX_MAP_122"
+  },
+  {
+    "bossId": "303",
+    "enemyId": "133",
+    "no": "123",
+    "stringId": "STR_FIELD_MIX_MAP_123"
+  },
+  {
+    "bossId": "304",
+    "enemyId": "134",
+    "no": "124",
+    "stringId": "STR_FIELD_MIX_MAP_124"
+  },
+  {
+    "bossId": "305",
+    "enemyId": "135",
+    "no": "125",
+    "stringId": "STR_FIELD_MIX_MAP_125"
+  },
+  {
+    "bossId": "306",
+    "enemyId": "136",
+    "no": "126",
+    "stringId": "STR_FIELD_MIX_MAP_126"
+  },
+  {
+    "bossId": "307",
+    "enemyId": "137",
+    "no": "127",
+    "stringId": "STR_FIELD_MIX_MAP_127"
+  },
+  {
+    "bossId": "308",
+    "enemyId": "138",
+    "no": "128",
+    "stringId": "STR_FIELD_MIX_MAP_128"
+  },
+  {
+    "bossId": "309",
+    "enemyId": "139",
+    "no": "129",
+    "stringId": "STR_FIELD_MIX_MAP_129"
+  },
+  {
+    "bossId": "310",
+    "enemyId": "140",
+    "no": "130",
+    "stringId": "STR_FIELD_MIX_MAP_130"
+  },
+  {
+    "bossId": "311",
+    "enemyId": "141",
+    "no": "131",
+    "stringId": "STR_FIELD_MIX_MAP_131"
+  },
+  {
+    "bossId": "312",
+    "enemyId": "142",
+    "no": "132",
+    "stringId": "STR_FIELD_MIX_MAP_132"
+  },
+  {
+    "bossId": "313",
+    "enemyId": "143",
+    "no": "133",
+    "stringId": "STR_FIELD_MIX_MAP_133"
+  },
+  {
+    "bossId": "314",
+    "enemyId": "144",
+    "no": "134",
+    "stringId": "STR_FIELD_MIX_MAP_134"
+  },
+  {
+    "bossId": "315",
+    "enemyId": "145",
+    "no": "135",
+    "stringId": "STR_FIELD_MIX_MAP_135"
+  },
+  {
+    "bossId": "316",
+    "enemyId": "146",
+    "no": "136",
+    "stringId": "STR_FIELD_MIX_MAP_136"
+  },
+  {
+    "bossId": "317",
+    "enemyId": "147",
+    "no": "137",
+    "stringId": "STR_FIELD_MIX_MAP_137"
+  },
+  {
+    "bossId": "318",
+    "enemyId": "148",
+    "no": "138",
+    "stringId": "STR_FIELD_MIX_MAP_138"
+  },
+  {
+    "bossId": "319",
+    "enemyId": "149",
+    "no": "139",
+    "stringId": "STR_FIELD_MIX_MAP_139"
+  },
+  {
+    "bossId": "320",
+    "enemyId": "150",
+    "no": "140",
+    "stringId": "STR_FIELD_MIX_MAP_140"
+  },
+  {
+    "bossId": "321",
+    "enemyId": "151",
+    "no": "141",
+    "stringId": "STR_FIELD_MIX_MAP_141"
+  },
+  {
+    "bossId": "322",
+    "enemyId": "152",
+    "no": "142",
+    "stringId": "STR_FIELD_MIX_MAP_142"
+  },
+  {
+    "bossId": "323",
+    "enemyId": "153",
+    "no": "143",
+    "stringId": "STR_FIELD_MIX_MAP_143"
+  },
+  {
+    "bossId": "324",
+    "enemyId": "154",
+    "no": "144",
+    "stringId": "STR_FIELD_MIX_MAP_144"
+  },
+  {
+    "bossId": "325",
+    "enemyId": "155",
+    "no": "145",
+    "stringId": "STR_FIELD_MIX_MAP_145"
+  },
+  {
+    "bossId": "326",
+    "enemyId": "156",
+    "no": "146",
+    "stringId": "STR_FIELD_MIX_MAP_146"
+  },
+  {
+    "bossId": "327",
+    "enemyId": "157",
+    "no": "147",
+    "stringId": "STR_FIELD_MIX_MAP_147"
+  },
+  {
+    "bossId": "328",
+    "enemyId": "158",
+    "no": "148",
+    "stringId": "STR_FIELD_MIX_MAP_148"
+  },
+  {
+    "bossId": "329",
+    "enemyId": "159",
+    "no": "149",
+    "stringId": "STR_FIELD_MIX_MAP_149"
+  },
+  {
+    "bossId": "330",
+    "enemyId": "160",
+    "no": "150",
+    "stringId": "STR_FIELD_MIX_MAP_150"
+  },
+  {
+    "bossId": "331",
+    "enemyId": "161",
+    "no": "151",
+    "stringId": "STR_FIELD_MIX_MAP_151"
+  },
+  {
+    "bossId": "332",
+    "enemyId": "162",
+    "no": "152",
+    "stringId": "STR_FIELD_MIX_MAP_152"
+  },
+  {
+    "bossId": "333",
+    "enemyId": "163",
+    "no": "153",
+    "stringId": "STR_FIELD_MIX_MAP_153"
+  },
+  {
+    "bossId": "334",
+    "enemyId": "164",
+    "no": "154",
+    "stringId": "STR_FIELD_MIX_MAP_154"
+  },
+  {
+    "bossId": "335",
+    "enemyId": "165",
+    "no": "155",
+    "stringId": "STR_FIELD_MIX_MAP_155"
+  },
+  {
+    "bossId": "336",
+    "enemyId": "166",
+    "no": "156",
+    "stringId": "STR_FIELD_MIX_MAP_156"
+  },
+  {
+    "bossId": "337",
+    "enemyId": "167",
+    "no": "157",
+    "stringId": "STR_FIELD_MIX_MAP_157"
+  },
+  {
+    "bossId": "338",
+    "enemyId": "168",
+    "no": "158",
+    "stringId": "STR_FIELD_MIX_MAP_158"
+  },
+  {
+    "bossId": "339",
+    "enemyId": "169",
+    "no": "159",
+    "stringId": "STR_FIELD_MIX_MAP_159"
+  },
+  {
+    "bossId": "181",
+    "enemyId": "11",
+    "no": "160",
+    "stringId": "STR_FIELD_MIX_MAP_160"
+  },
+  {
+    "bossId": "183",
+    "enemyId": "13",
+    "no": "161",
+    "stringId": "STR_FIELD_MIX_MAP_161"
+  },
+  {
+    "bossId": "184",
+    "enemyId": "14",
+    "no": "162",
+    "stringId": "STR_FIELD_MIX_MAP_162"
+  },
+  {
+    "bossId": "187",
+    "enemyId": "17",
+    "no": "163",
+    "stringId": "STR_FIELD_MIX_MAP_163"
+  },
+  {
+    "bossId": "188",
+    "enemyId": "18",
+    "no": "164",
+    "stringId": "STR_FIELD_MIX_MAP_164"
+  },
+  {
+    "bossId": "189",
+    "enemyId": "19",
+    "no": "165",
+    "stringId": "STR_FIELD_MIX_MAP_165"
+  },
+  {
+    "bossId": "191",
+    "enemyId": "21",
+    "no": "166",
+    "stringId": "STR_FIELD_MIX_MAP_166"
+  },
+  {
+    "bossId": "193",
+    "enemyId": "23",
+    "no": "167",
+    "stringId": "STR_FIELD_MIX_MAP_167"
+  },
+  {
+    "bossId": "196",
+    "enemyId": "26",
+    "no": "168",
+    "stringId": "STR_FIELD_MIX_MAP_168"
+  },
+  {
+    "bossId": "197",
+    "enemyId": "28",
+    "no": "169",
+    "stringId": "STR_FIELD_MIX_MAP_169"
+  },
+  {
+    "bossId": "198",
+    "enemyId": "28",
+    "no": "170",
+    "stringId": "STR_FIELD_MIX_MAP_170"
+  },
+  {
+    "bossId": "199",
+    "enemyId": "29",
+    "no": "171",
+    "stringId": "STR_FIELD_MIX_MAP_171"
+  },
+  {
+    "bossId": "201",
+    "enemyId": "31",
+    "no": "172",
+    "stringId": "STR_FIELD_MIX_MAP_172"
+  },
+  {
+    "bossId": "203",
+    "enemyId": "33",
+    "no": "173",
+    "stringId": "STR_FIELD_MIX_MAP_173"
+  },
+  {
+    "bossId": "206",
+    "enemyId": "36",
+    "no": "174",
+    "stringId": "STR_FIELD_MIX_MAP_174"
+  },
+  {
+    "bossId": "207",
+    "enemyId": "37",
+    "no": "175",
+    "stringId": "STR_FIELD_MIX_MAP_175"
+  },
+  {
+    "bossId": "208",
+    "enemyId": "38",
+    "no": "176",
+    "stringId": "STR_FIELD_MIX_MAP_176"
+  },
+  {
+    "bossId": "209",
+    "enemyId": "39",
+    "no": "177",
+    "stringId": "STR_FIELD_MIX_MAP_177"
+  },
+  {
+    "bossId": "211",
+    "enemyId": "41",
+    "no": "178",
+    "stringId": "STR_FIELD_MIX_MAP_178"
+  },
+  {
+    "bossId": "213",
+    "enemyId": "43",
+    "no": "179",
+    "stringId": "STR_FIELD_MIX_MAP_179"
+  },
+  {
+    "bossId": "216",
+    "enemyId": "46",
+    "no": "180",
+    "stringId": "STR_FIELD_MIX_MAP_180"
+  },
+  {
+    "bossId": "218",
+    "enemyId": "48",
+    "no": "181",
+    "stringId": "STR_FIELD_MIX_MAP_181"
+  },
+  {
+    "bossId": "218",
+    "enemyId": "48",
+    "no": "182",
+    "stringId": "STR_FIELD_MIX_MAP_182"
+  },
+  {
+    "bossId": "219",
+    "enemyId": "49",
+    "no": "183",
+    "stringId": "STR_FIELD_MIX_MAP_183"
+  },
+  {
+    "bossId": "221",
+    "enemyId": "51",
+    "no": "184",
+    "stringId": "STR_FIELD_MIX_MAP_184"
+  },
+  {
+    "bossId": "223",
+    "enemyId": "53",
+    "no": "185",
+    "stringId": "STR_FIELD_MIX_MAP_185"
+  },
+  {
+    "bossId": "226",
+    "enemyId": "56",
+    "no": "186",
+    "stringId": "STR_FIELD_MIX_MAP_186"
+  },
+  {
+    "bossId": "228",
+    "enemyId": "58",
+    "no": "187",
+    "stringId": "STR_FIELD_MIX_MAP_187"
+  },
+  {
+    "bossId": "228",
+    "enemyId": "58",
+    "no": "188",
+    "stringId": "STR_FIELD_MIX_MAP_188"
+  },
+  {
+    "bossId": "229",
+    "enemyId": "59",
+    "no": "189",
+    "stringId": "STR_FIELD_MIX_MAP_189"
+  },
+  {
+    "bossId": "232",
+    "enemyId": "62",
+    "no": "190",
+    "stringId": "STR_FIELD_MIX_MAP_190"
+  },
+  {
+    "bossId": "235",
+    "enemyId": "65",
+    "no": "191",
+    "stringId": "STR_FIELD_MIX_MAP_191"
+  },
+  {
+    "bossId": "236",
+    "enemyId": "66",
+    "no": "192",
+    "stringId": "STR_FIELD_MIX_MAP_192"
+  },
+  {
+    "bossId": "237",
+    "enemyId": "67",
+    "no": "193",
+    "stringId": "STR_FIELD_MIX_MAP_193"
+  },
+  {
+    "bossId": "238",
+    "enemyId": "68",
+    "no": "194",
+    "stringId": "STR_FIELD_MIX_MAP_194"
+  },
+  {
+    "bossId": "239",
+    "enemyId": "69",
+    "no": "195",
+    "stringId": "STR_FIELD_MIX_MAP_195"
+  },
+  {
+    "bossId": "241",
+    "enemyId": "71",
+    "no": "196",
+    "stringId": "STR_FIELD_MIX_MAP_196"
+  },
+  {
+    "bossId": "243",
+    "enemyId": "73",
+    "no": "197",
+    "stringId": "STR_FIELD_MIX_MAP_197"
+  },
+  {
+    "bossId": "246",
+    "enemyId": "76",
+    "no": "198",
+    "stringId": "STR_FIELD_MIX_MAP_198"
+  },
+  {
+    "bossId": "247",
+    "enemyId": "77",
+    "no": "199",
+    "stringId": "STR_FIELD_MIX_MAP_199"
+  },
+  {
+    "bossId": "248",
+    "enemyId": "78",
+    "no": "200",
+    "stringId": "STR_FIELD_MIX_MAP_200"
+  },
+  {
+    "bossId": "249",
+    "enemyId": "79",
+    "no": "201",
+    "stringId": "STR_FIELD_MIX_MAP_201"
+  },
+  {
+    "bossId": "252",
+    "enemyId": "82",
+    "no": "202",
+    "stringId": "STR_FIELD_MIX_MAP_202"
+  },
+  {
+    "bossId": "255",
+    "enemyId": "85",
+    "no": "203",
+    "stringId": "STR_FIELD_MIX_MAP_203"
+  },
+  {
+    "bossId": "256",
+    "enemyId": "86",
+    "no": "204",
+    "stringId": "STR_FIELD_MIX_MAP_204"
+  },
+  {
+    "bossId": "257",
+    "enemyId": "87",
+    "no": "205",
+    "stringId": "STR_FIELD_MIX_MAP_205"
+  },
+  {
+    "bossId": "258",
+    "enemyId": "88",
+    "no": "206",
+    "stringId": "STR_FIELD_MIX_MAP_206"
+  },
+  {
+    "bossId": "259",
+    "enemyId": "89",
+    "no": "207",
+    "stringId": "STR_FIELD_MIX_MAP_207"
+  },
+  {
+    "bossId": "262",
+    "enemyId": "92",
+    "no": "208",
+    "stringId": "STR_FIELD_MIX_MAP_208"
+  },
+  {
+    "bossId": "265",
+    "enemyId": "95",
+    "no": "209",
+    "stringId": "STR_FIELD_MIX_MAP_209"
+  },
+  {
+    "bossId": "266",
+    "enemyId": "96",
+    "no": "210",
+    "stringId": "STR_FIELD_MIX_MAP_210"
+  },
+  {
+    "bossId": "267",
+    "enemyId": "97",
+    "no": "211",
+    "stringId": "STR_FIELD_MIX_MAP_211"
+  },
+  {
+    "bossId": "268",
+    "enemyId": "98",
+    "no": "212",
+    "stringId": "STR_FIELD_MIX_MAP_212"
+  },
+  {
+    "bossId": "269",
+    "enemyId": "99",
+    "no": "213",
+    "stringId": "STR_FIELD_MIX_MAP_213"
+  },
+  {
+    "bossId": "272",
+    "enemyId": "102",
+    "no": "214",
+    "stringId": "STR_FIELD_MIX_MAP_214"
+  },
+  {
+    "bossId": "275",
+    "enemyId": "105",
+    "no": "215",
+    "stringId": "STR_FIELD_MIX_MAP_215"
+  },
+  {
+    "bossId": "276",
+    "enemyId": "106",
+    "no": "216",
+    "stringId": "STR_FIELD_MIX_MAP_216"
+  },
+  {
+    "bossId": "277",
+    "enemyId": "107",
+    "no": "217",
+    "stringId": "STR_FIELD_MIX_MAP_217"
+  },
+  {
+    "bossId": "278",
+    "enemyId": "108",
+    "no": "218",
+    "stringId": "STR_FIELD_MIX_MAP_218"
+  },
+  {
+    "bossId": "279",
+    "enemyId": "109",
+    "no": "219",
+    "stringId": "STR_FIELD_MIX_MAP_219"
+  },
+  {
+    "bossId": "282",
+    "enemyId": "112",
+    "no": "220",
+    "stringId": "STR_FIELD_MIX_MAP_220"
+  },
+  {
+    "bossId": "285",
+    "enemyId": "115",
+    "no": "221",
+    "stringId": "STR_FIELD_MIX_MAP_221"
+  },
+  {
+    "bossId": "286",
+    "enemyId": "116",
+    "no": "222",
+    "stringId": "STR_FIELD_MIX_MAP_222"
+  },
+  {
+    "bossId": "287",
+    "enemyId": "117",
+    "no": "223",
+    "stringId": "STR_FIELD_MIX_MAP_223"
+  },
+  {
+    "bossId": "288",
+    "enemyId": "118",
+    "no": "224",
+    "stringId": "STR_FIELD_MIX_MAP_224"
+  },
+  {
+    "bossId": "289",
+    "enemyId": "119",
+    "no": "225",
+    "stringId": "STR_FIELD_MIX_MAP_225"
+  },
+  {
+    "bossId": "292",
+    "enemyId": "122",
+    "no": "226",
+    "stringId": "STR_FIELD_MIX_MAP_226"
+  },
+  {
+    "bossId": "295",
+    "enemyId": "125",
+    "no": "227",
+    "stringId": "STR_FIELD_MIX_MAP_227"
+  },
+  {
+    "bossId": "296",
+    "enemyId": "126",
+    "no": "228",
+    "stringId": "STR_FIELD_MIX_MAP_228"
+  },
+  {
+    "bossId": "297",
+    "enemyId": "127",
+    "no": "229",
+    "stringId": "STR_FIELD_MIX_MAP_229"
+  },
+  {
+    "bossId": "298",
+    "enemyId": "128",
+    "no": "230",
+    "stringId": "STR_FIELD_MIX_MAP_230"
+  },
+  {
+    "bossId": "299",
+    "enemyId": "129",
+    "no": "231",
+    "stringId": "STR_FIELD_MIX_MAP_231"
+  },
+  {
+    "bossId": "302",
+    "enemyId": "132",
+    "no": "232",
+    "stringId": "STR_FIELD_MIX_MAP_232"
+  },
+  {
+    "bossId": "305",
+    "enemyId": "135",
+    "no": "233",
+    "stringId": "STR_FIELD_MIX_MAP_233"
+  },
+  {
+    "bossId": "306",
+    "enemyId": "136",
+    "no": "234",
+    "stringId": "STR_FIELD_MIX_MAP_234"
+  },
+  {
+    "bossId": "307",
+    "enemyId": "137",
+    "no": "235",
+    "stringId": "STR_FIELD_MIX_MAP_235"
+  },
+  {
+    "bossId": "308",
+    "enemyId": "138",
+    "no": "236",
+    "stringId": "STR_FIELD_MIX_MAP_236"
+  },
+  {
+    "bossId": "309",
+    "enemyId": "139",
+    "no": "237",
+    "stringId": "STR_FIELD_MIX_MAP_237"
+  },
+  {
+    "bossId": "312",
+    "enemyId": "142",
+    "no": "238",
+    "stringId": "STR_FIELD_MIX_MAP_238"
+  },
+  {
+    "bossId": "315",
+    "enemyId": "145",
+    "no": "239",
+    "stringId": "STR_FIELD_MIX_MAP_239"
+  },
+  {
+    "bossId": "316",
+    "enemyId": "146",
+    "no": "240",
+    "stringId": "STR_FIELD_MIX_MAP_240"
+  },
+  {
+    "bossId": "317",
+    "enemyId": "147",
+    "no": "241",
+    "stringId": "STR_FIELD_MIX_MAP_241"
+  },
+  {
+    "bossId": "318",
+    "enemyId": "148",
+    "no": "242",
+    "stringId": "STR_FIELD_MIX_MAP_242"
+  },
+  {
+    "bossId": "319",
+    "enemyId": "149",
+    "no": "243",
+    "stringId": "STR_FIELD_MIX_MAP_243"
+  },
+  {
+    "bossId": "322",
+    "enemyId": "152",
+    "no": "244",
+    "stringId": "STR_FIELD_MIX_MAP_244"
+  },
+  {
+    "bossId": "325",
+    "enemyId": "155",
+    "no": "245",
+    "stringId": "STR_FIELD_MIX_MAP_245"
+  },
+  {
+    "bossId": "326",
+    "enemyId": "156",
+    "no": "246",
+    "stringId": "STR_FIELD_MIX_MAP_246"
+  },
+  {
+    "bossId": "327",
+    "enemyId": "157",
+    "no": "247",
+    "stringId": "STR_FIELD_MIX_MAP_247"
+  },
+  {
+    "bossId": "328",
+    "enemyId": "158",
+    "no": "248",
+    "stringId": "STR_FIELD_MIX_MAP_248"
+  },
+  {
+    "bossId": "329",
+    "enemyId": "159",
+    "no": "249",
+    "stringId": "STR_FIELD_MIX_MAP_249"
+  },
+  {
+    "bossId": "332",
+    "enemyId": "162",
+    "no": "250",
+    "stringId": "STR_FIELD_MIX_MAP_250"
+  },
+  {
+    "bossId": "335",
+    "enemyId": "165",
+    "no": "251",
+    "stringId": "STR_FIELD_MIX_MAP_251"
+  },
+  {
+    "bossId": "338",
+    "enemyId": "168",
+    "no": "252",
+    "stringId": "STR_FIELD_MIX_MAP_252"
+  },
+  {
+    "bossId": "337",
+    "enemyId": "167",
+    "no": "253",
+    "stringId": "STR_FIELD_MIX_MAP_253"
+  },
+  {
+    "bossId": "338",
+    "enemyId": "168",
+    "no": "254",
+    "stringId": "STR_FIELD_MIX_MAP_254"
+  },
+  {
+    "bossId": "339",
+    "enemyId": "169",
+    "no": "255",
+    "stringId": "STR_FIELD_MIX_MAP_255"
+  },
+  {
+    "bossId": "340",
+    "enemyId": "170",
+    "no": "256",
+    "stringId": "STR_FIELD_MIX_MAP_256"
+  },
+  {
+    "bossId": "341",
+    "enemyId": "171",
+    "no": "257",
+    "stringId": "STR_FIELD_MIX_MAP_257"
+  },
+  {
+    "bossId": "342",
+    "enemyId": "172",
+    "no": "258",
+    "stringId": "STR_FIELD_MIX_MAP_258"
+  },
+  {
+    "bossId": "343",
+    "enemyId": "173",
+    "no": "259",
+    "stringId": "STR_FIELD_MIX_MAP_259"
+  },
+  {
+    "bossId": "344",
+    "enemyId": "174",
+    "no": "260",
+    "stringId": "STR_FIELD_MIX_MAP_260"
+  },
+  {
+    "bossId": "345",
+    "enemyId": "175",
+    "no": "261",
+    "stringId": "STR_FIELD_MIX_MAP_261"
+  },
+  {
+    "bossId": "346",
+    "enemyId": "176",
+    "no": "262",
+    "stringId": "STR_FIELD_MIX_MAP_262"
+  },
+  {
+    "bossId": "347",
+    "enemyId": "177",
+    "no": "263",
+    "stringId": "STR_FIELD_MIX_MAP_263"
+  },
+  {
+    "bossId": "348",
+    "enemyId": "178",
+    "no": "264",
+    "stringId": "STR_FIELD_MIX_MAP_264"
+  },
+  {
+    "bossId": "349",
+    "enemyId": "179",
+    "no": "265",
+    "stringId": "STR_FIELD_MIX_MAP_265"
+  },
+  {
+    "bossId": "344",
+    "enemyId": "174",
+    "no": "266",
+    "stringId": "STR_FIELD_MIX_MAP_266"
+  },
+  {
+    "bossId": "345",
+    "enemyId": "175",
+    "no": "267",
+    "stringId": "STR_FIELD_MIX_MAP_267"
+  },
+  {
+    "bossId": "346",
+    "enemyId": "176",
+    "no": "268",
+    "stringId": "STR_FIELD_MIX_MAP_268"
+  },
+  {
+    "bossId": "347",
+    "enemyId": "177",
+    "no": "269",
+    "stringId": "STR_FIELD_MIX_MAP_269"
+  },
+  {
+    "bossId": "348",
+    "enemyId": "178",
+    "no": "270",
+    "stringId": "STR_FIELD_MIX_MAP_270"
+  },
+  {
+    "bossId": "349",
+    "enemyId": "179",
+    "no": "271",
+    "stringId": "STR_FIELD_MIX_MAP_271"
+  }
+]

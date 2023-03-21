@@ -1,0 +1,34 @@
+type Query {
+  password(input: String!, levelLimit: Int = 100): [PasswordResult!]!
+  itemName(input: String!, levelLimit: Int = 100): [PasswordResult!]!
+}
+
+type PasswordResult {
+  level: Int
+  cost: Int
+  password: String
+  primaryItem: ItemDrop
+  secondaryItem: ItemDrop
+  monster: EnemyMonster
+  boss: EnemyBoss
+  mapName: String
+}
+
+type ItemDrop {
+  name: String
+}
+
+type EnemyMonster {
+  name: String
+}
+
+type EnemyBoss {
+  name: String
+  type: EnemyBossType
+}
+
+enum EnemyBossType {
+  REGULAR
+  RAVINE
+  DOMAIN
+}

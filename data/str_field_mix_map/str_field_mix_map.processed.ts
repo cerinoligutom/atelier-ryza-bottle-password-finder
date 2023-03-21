@@ -1,0 +1,1362 @@
+export default [
+  {
+    "mapName": "Nameless Grass Forest",
+    "primaryItemName": "Nameless Grass",
+    "no": "1507329"
+  },
+  {
+    "mapName": "Fresh Berry Forest",
+    "primaryItemName": "Fresh Berry",
+    "no": "1507330"
+  },
+  {
+    "mapName": "Rainbow Grape Forest",
+    "primaryItemName": "Rainbow Grape",
+    "no": "1507331"
+  },
+  {
+    "mapName": "Blue Clover Forest",
+    "primaryItemName": "Blue Clover",
+    "no": "1507332"
+  },
+  {
+    "mapName": "Cotton Grass Forest",
+    "primaryItemName": "Cotton Grass",
+    "no": "1507333"
+  },
+  {
+    "mapName": "Tough Log Forest",
+    "primaryItemName": "Tough Log",
+    "no": "1507334"
+  },
+  {
+    "mapName": "Silver Uni Forest",
+    "primaryItemName": "Silver Uni",
+    "no": "1507335"
+  },
+  {
+    "mapName": "Maple Leaf Forest",
+    "primaryItemName": "Maple Leaf",
+    "no": "1507336"
+  },
+  {
+    "mapName": "Mushroom Colony Forest",
+    "primaryItemName": "Mushroom Colony",
+    "no": "1507337"
+  },
+  {
+    "mapName": "Fossil Tree Forest",
+    "primaryItemName": "Fossil Tree",
+    "no": "1507338"
+  },
+  {
+    "mapName": "Health Flower Grove",
+    "primaryItemName": "Health Flower",
+    "no": "1507339"
+  },
+  {
+    "mapName": "Uni Grove",
+    "primaryItemName": "Uni",
+    "no": "1507340"
+  },
+  {
+    "mapName": "Eicheloa Grove",
+    "primaryItemName": "Eicheloa",
+    "no": "1507341"
+  },
+  {
+    "mapName": "Restraint Silk Grove",
+    "primaryItemName": "Restraint Silk",
+    "no": "1507342"
+  },
+  {
+    "mapName": "Spirit Flower Grove",
+    "primaryItemName": "Spirit Flower",
+    "no": "1507343"
+  },
+  {
+    "mapName": "Poison Grass Grove",
+    "primaryItemName": "Poison Grass",
+    "no": "1507344"
+  },
+  {
+    "mapName": "Sweet Leaf Grove",
+    "primaryItemName": "Sweet Leaf",
+    "no": "1507345"
+  },
+  {
+    "mapName": "Silver Beehive Grove",
+    "primaryItemName": "Silver Beehive",
+    "no": "1507346"
+  },
+  {
+    "mapName": "Blessed Pure Flower Grove",
+    "primaryItemName": "Blessed Pure Flower",
+    "no": "1507347"
+  },
+  {
+    "mapName": "Ancient Branch Grove",
+    "primaryItemName": "Ancient Branch",
+    "no": "1507348"
+  },
+  {
+    "mapName": "Northern Wind Flower Meadow",
+    "primaryItemName": "Northern Wind Flower",
+    "no": "1507349"
+  },
+  {
+    "mapName": "Wasser Wheat Meadow",
+    "primaryItemName": "Wasser Wheat",
+    "no": "1507350"
+  },
+  {
+    "mapName": "Eiche Meadow",
+    "primaryItemName": "Eiche",
+    "no": "1507351"
+  },
+  {
+    "mapName": "Oil Tree Fruit Meadow",
+    "primaryItemName": "Oil Tree Fruit",
+    "no": "1507352"
+  },
+  {
+    "mapName": "Lantern Grass Meadow",
+    "primaryItemName": "Lantern Grass",
+    "no": "1507353"
+  },
+  {
+    "mapName": "Palma Fruit Meadow",
+    "primaryItemName": "Palma Fruit",
+    "no": "1507354"
+  },
+  {
+    "mapName": "Bubble Grass Meadow",
+    "primaryItemName": "Bubble Grass",
+    "no": "1507355"
+  },
+  {
+    "mapName": "Jupitonion Meadow",
+    "primaryItemName": "Jupitonion",
+    "no": "1507356"
+  },
+  {
+    "mapName": "Memorial Mist Flower Meadow",
+    "primaryItemName": "Memorial Mist Flower",
+    "no": "1507357"
+  },
+  {
+    "mapName": "Arbor Ivy Meadow",
+    "primaryItemName": "Arbor Ivy",
+    "no": "1507358"
+  },
+  {
+    "mapName": "Sunny Honey Flower Garden",
+    "primaryItemName": "Sunny Honey Flower",
+    "no": "1507359"
+  },
+  {
+    "mapName": "Fodder Garden",
+    "primaryItemName": "Fodder",
+    "no": "1507360"
+  },
+  {
+    "mapName": "Beehive Garden",
+    "primaryItemName": "Beehive",
+    "no": "1507361"
+  },
+  {
+    "mapName": "Tough Vine Garden",
+    "primaryItemName": "Tough Vine",
+    "no": "1507362"
+  },
+  {
+    "mapName": "Spirit Feather Garden",
+    "primaryItemName": "Spirit Feather",
+    "no": "1507363"
+  },
+  {
+    "mapName": "Mossy Driftwood Garden",
+    "primaryItemName": "Mossy Driftwood",
+    "no": "1507364"
+  },
+  {
+    "mapName": "Dream Mushroom Garden",
+    "primaryItemName": "Dream Mushroom",
+    "no": "1507365"
+  },
+  {
+    "mapName": "Serenity Flower Garden",
+    "primaryItemName": "Serenity Flower",
+    "no": "1507366"
+  },
+  {
+    "mapName": "Serene Moon Flower Garden",
+    "primaryItemName": "Serene Moon Flower",
+    "no": "1507367"
+  },
+  {
+    "mapName": "Underworld Rotwood Garden",
+    "primaryItemName": "Underworld Rotwood",
+    "no": "1507368"
+  },
+  {
+    "mapName": "Small Crystal Trail",
+    "primaryItemName": "Small Crystal",
+    "no": "1507369"
+  },
+  {
+    "mapName": "Lightning Ore Trail",
+    "primaryItemName": "Lightning Ore",
+    "no": "1507370"
+  },
+  {
+    "mapName": "Nectar Rock Trail",
+    "primaryItemName": "Nectar Rock",
+    "no": "1507371"
+  },
+  {
+    "mapName": "Flame Black Sand Trail",
+    "primaryItemName": "Flame Black Sand",
+    "no": "1507372"
+  },
+  {
+    "mapName": "Snake Slough Trail",
+    "primaryItemName": "Snake Slough",
+    "no": "1507373"
+  },
+  {
+    "mapName": "Ancient Pillar Trail",
+    "primaryItemName": "Ancient Pillar",
+    "no": "1507374"
+  },
+  {
+    "mapName": "Shell Pearl Trail",
+    "primaryItemName": "Shell Pearl",
+    "no": "1507375"
+  },
+  {
+    "mapName": "Beast Fossil Trail",
+    "primaryItemName": "Beast Fossil",
+    "no": "1507376"
+  },
+  {
+    "mapName": "Cave Coral Trail",
+    "primaryItemName": "Cave Coral",
+    "no": "1507377"
+  },
+  {
+    "mapName": "Riverstone Trail",
+    "primaryItemName": "Riverstone",
+    "no": "1507378"
+  },
+  {
+    "mapName": "Crimson Ore Quarry",
+    "primaryItemName": "Crimson Ore",
+    "no": "1507379"
+  },
+  {
+    "mapName": "Dried Lumber Quarry",
+    "primaryItemName": "Dried Lumber",
+    "no": "1507380"
+  },
+  {
+    "mapName": "Large Feather Quarry",
+    "primaryItemName": "Large Feather",
+    "no": "1507381"
+  },
+  {
+    "mapName": "Koberinite Quarry",
+    "primaryItemName": "Koberinite",
+    "no": "1507382"
+  },
+  {
+    "mapName": "Magma Powder Quarry",
+    "primaryItemName": "Magma Powder",
+    "no": "1507383"
+  },
+  {
+    "mapName": "Magnemalmoa Quarry",
+    "primaryItemName": "Magnemalmoa",
+    "no": "1507384"
+  },
+  {
+    "mapName": "Old Knight Emblem Quarry",
+    "primaryItemName": "Old Knight Emblem",
+    "no": "1507385"
+  },
+  {
+    "mapName": "Dragon Meat Quarry",
+    "primaryItemName": "Dragon Meat",
+    "no": "1507386"
+  },
+  {
+    "mapName": "Earth Fish Fang Quarry",
+    "primaryItemName": "Earth Fish Fang",
+    "no": "1507387"
+  },
+  {
+    "mapName": "Mordinite Quarry",
+    "primaryItemName": "Mordinite",
+    "no": "1507388"
+  },
+  {
+    "mapName": "Aqua Ore Path",
+    "primaryItemName": "Aqua Ore",
+    "no": "1507389"
+  },
+  {
+    "mapName": "Rusted Sword Path",
+    "primaryItemName": "Rusted Sword",
+    "no": "1507390"
+  },
+  {
+    "mapName": "Large Bone Path",
+    "primaryItemName": "Large Bone",
+    "no": "1507391"
+  },
+  {
+    "mapName": "Mystery Gemstone Path",
+    "primaryItemName": "Unknown Gemstone",
+    "no": "1507392"
+  },
+  {
+    "mapName": "Waterside Moss Stone Path",
+    "primaryItemName": "Waterside Moss Stone",
+    "no": "1507393"
+  },
+  {
+    "mapName": "Beast Shell Path",
+    "primaryItemName": "Beast Shell",
+    "no": "1507394"
+  },
+  {
+    "mapName": "Amber Fragment Path",
+    "primaryItemName": "Amber Fragment",
+    "no": "1507395"
+  },
+  {
+    "mapName": "Stalactite Fragment Path",
+    "primaryItemName": "Stalactite Fragment",
+    "no": "1507396"
+  },
+  {
+    "mapName": "Coral Stone Path",
+    "primaryItemName": "Coral Stone",
+    "no": "1507397"
+  },
+  {
+    "mapName": "Blue Flame Riverstone Path",
+    "primaryItemName": "Blue Flame Riverstone",
+    "no": "1507398"
+  },
+  {
+    "mapName": "Sandstone Bluff",
+    "primaryItemName": "Sandstone",
+    "no": "1507399"
+  },
+  {
+    "mapName": "Amatite Ore Bluff",
+    "primaryItemName": "Amatite Ore",
+    "no": "1507400"
+  },
+  {
+    "mapName": "Eroded Stone Bluff",
+    "primaryItemName": "Eroded Stone",
+    "no": "1507401"
+  },
+  {
+    "mapName": "Animal Hide Bluff",
+    "primaryItemName": "Animal Hide",
+    "no": "1507402"
+  },
+  {
+    "mapName": "Pentanite Bluff",
+    "primaryItemName": "Pentanite",
+    "no": "1507403"
+  },
+  {
+    "mapName": "Beast Scales Bluff",
+    "primaryItemName": "Beast Scales",
+    "no": "1507404"
+  },
+  {
+    "mapName": "Cometstone Bluff",
+    "primaryItemName": "Cometstone",
+    "no": "1507405"
+  },
+  {
+    "mapName": "Atonement Stinger Bluff",
+    "primaryItemName": "Atonement Stinger",
+    "no": "1507406"
+  },
+  {
+    "mapName": "Dragon Wing Bluff",
+    "primaryItemName": "Dragon Wing",
+    "no": "1507407"
+  },
+  {
+    "mapName": "Ethereal Stone Bluff",
+    "primaryItemName": "Ethereal Stone",
+    "no": "1507408"
+  },
+  {
+    "mapName": "Clean Water Sea",
+    "primaryItemName": "Clean Water",
+    "no": "1507409"
+  },
+  {
+    "mapName": "Sardine Sea",
+    "primaryItemName": "Sardine",
+    "no": "1507410"
+  },
+  {
+    "mapName": "Taun Sea",
+    "primaryItemName": "Taun",
+    "no": "1507411"
+  },
+  {
+    "mapName": "Exofish Sea",
+    "primaryItemName": "Exofish",
+    "no": "1507412"
+  },
+  {
+    "mapName": "Green Puniball Sea",
+    "primaryItemName": "Green Puniball",
+    "no": "1507413"
+  },
+  {
+    "mapName": "Beast Fin Sea",
+    "primaryItemName": "Beast Fin",
+    "no": "1507414"
+  },
+  {
+    "mapName": "Selior Sea",
+    "primaryItemName": "Selior",
+    "no": "1507415"
+  },
+  {
+    "mapName": "Xisor Sea",
+    "primaryItemName": "Xisor",
+    "no": "1507416"
+  },
+  {
+    "mapName": "Maple Bark Sea",
+    "primaryItemName": "Maple Bark",
+    "no": "1507417"
+  },
+  {
+    "mapName": "Black Puniball Sea",
+    "primaryItemName": "Black Puniball",
+    "no": "1507418"
+  },
+  {
+    "mapName": "Goat's Milk Beach",
+    "primaryItemName": "Goat's Milk",
+    "no": "1507419"
+  },
+  {
+    "mapName": "Wild Potato Beach",
+    "primaryItemName": "Wild Potato",
+    "no": "1507420"
+  },
+  {
+    "mapName": "Blue Puniball Beach",
+    "primaryItemName": "Blue Puniball",
+    "no": "1507421"
+  },
+  {
+    "mapName": "Crab Beach",
+    "primaryItemName": "Crab",
+    "no": "1507422"
+  },
+  {
+    "mapName": "Unknown Egg Beach",
+    "primaryItemName": "Unknown Egg",
+    "no": "1507423"
+  },
+  {
+    "mapName": "Roteswasser Tonic Beach",
+    "primaryItemName": "Roteswasser Tonic",
+    "no": "1507424"
+  },
+  {
+    "mapName": "Fertile Soil Beach",
+    "primaryItemName": "Fertile Soil",
+    "no": "1507425"
+  },
+  {
+    "mapName": "Crimson Grass Beach",
+    "primaryItemName": "Crimson Grass",
+    "no": "1507426"
+  },
+  {
+    "mapName": "Foamy Water Beach",
+    "primaryItemName": "Foamy Water",
+    "no": "1507427"
+  },
+  {
+    "mapName": "Fresh Meat Beach",
+    "primaryItemName": "Fresh Meat",
+    "no": "1507428"
+  },
+  {
+    "mapName": "Scrap Paper Ocean",
+    "primaryItemName": "Scrap Paper",
+    "no": "1507429"
+  },
+  {
+    "mapName": "Pretty Shell Ocean",
+    "primaryItemName": "Pretty Shell",
+    "no": "1507430"
+  },
+  {
+    "mapName": "Beast Meat Ocean",
+    "primaryItemName": "Beast Meat",
+    "no": "1507431"
+  },
+  {
+    "mapName": "Plant Essence Ocean",
+    "primaryItemName": "Plant Essence",
+    "no": "1507432"
+  },
+  {
+    "mapName": "Natural Oil Ocean",
+    "primaryItemName": "Natural Oil",
+    "no": "1507433"
+  },
+  {
+    "mapName": "Spikey Ocean",
+    "primaryItemName": "Spikey",
+    "no": "1507434"
+  },
+  {
+    "mapName": "Palma Bark Ocean",
+    "primaryItemName": "Palma Bark",
+    "no": "1507435"
+  },
+  {
+    "mapName": "Medicine Moss Ocean",
+    "primaryItemName": "Medicine Moss",
+    "no": "1507436"
+  },
+  {
+    "mapName": "Jade Water Ocean",
+    "primaryItemName": "Jade Water",
+    "no": "1507437"
+  },
+  {
+    "mapName": "Mutant Taun Ocean",
+    "primaryItemName": "Mutant Taun",
+    "no": "1507438"
+  },
+  {
+    "mapName": "Kurken Fruit Shore",
+    "primaryItemName": "Kurken Fruit",
+    "no": "1507439"
+  },
+  {
+    "mapName": "Purumuru Shore",
+    "primaryItemName": "Purumuru",
+    "no": "1507440"
+  },
+  {
+    "mapName": "Flammable Bark Shore",
+    "primaryItemName": "Flammable Bark",
+    "no": "1507441"
+  },
+  {
+    "mapName": "Bitter Root Shore",
+    "primaryItemName": "Bitter Root",
+    "no": "1507442"
+  },
+  {
+    "mapName": "Tall Taun Shore",
+    "primaryItemName": "Tall Taun",
+    "no": "1507443"
+  },
+  {
+    "mapName": "Red Puniball Shore",
+    "primaryItemName": "Red Puniball",
+    "no": "1507444"
+  },
+  {
+    "mapName": "Sapling Branch Shore",
+    "primaryItemName": "Sapling Branch",
+    "no": "1507445"
+  },
+  {
+    "mapName": "Honey Tree Branch Shore",
+    "primaryItemName": "Honey Tree Branch",
+    "no": "1507446"
+  },
+  {
+    "mapName": "Smoky Charcoal Shore",
+    "primaryItemName": "Smoky Charcoal",
+    "no": "1507447"
+  },
+  {
+    "mapName": "Sawe Fish Shore",
+    "primaryItemName": "Sawe Fish",
+    "no": "1507448"
+  },
+  {
+    "mapName": "Seven Stars Ruins",
+    "primaryItemName": "Seven Stars",
+    "no": "1507449"
+  },
+  {
+    "mapName": "Kumine Fruit Ruins",
+    "primaryItemName": "Kumine Fruit",
+    "no": "1507450"
+  },
+  {
+    "mapName": "Kumine Poison Ruins",
+    "primaryItemName": "Kumine Poison",
+    "no": "1507451"
+  },
+  {
+    "mapName": "Emerald Glass Ruins",
+    "primaryItemName": "Emerald Glass",
+    "no": "1507452"
+  },
+  {
+    "mapName": "Giant Beetle Ruins",
+    "primaryItemName": "Giant Beetle",
+    "no": "1507453"
+  },
+  {
+    "mapName": "Fragrant Honey Tree Ruins",
+    "primaryItemName": "Fragrant Honey Tree",
+    "no": "1507454"
+  },
+  {
+    "mapName": "Lunatic Poison Lance Ruins",
+    "primaryItemName": "Lunatic Poison Lance",
+    "no": "1507455"
+  },
+  {
+    "mapName": "Resentful Scream Ruins",
+    "primaryItemName": "Resentful Scream",
+    "no": "1507456"
+  },
+  {
+    "mapName": "Rotwood Miasma Ruins",
+    "primaryItemName": "Rotwood Miasma",
+    "no": "1507457"
+  },
+  {
+    "mapName": "Lapis Papillion Ruins",
+    "primaryItemName": "Lapis Papillion",
+    "no": "1507458"
+  },
+  {
+    "mapName": "Soft Sand Remnants",
+    "primaryItemName": "Soft Sand",
+    "no": "1507459"
+  },
+  {
+    "mapName": "Fairystone Fragment Remnants",
+    "primaryItemName": "Fairystone Fragment",
+    "no": "1507460"
+  },
+  {
+    "mapName": "Burning Sand Remnants",
+    "primaryItemName": "Burning Sand",
+    "no": "1507461"
+  },
+  {
+    "mapName": "Polluted Humus Remnants",
+    "primaryItemName": "Polluted Humus",
+    "no": "1507462"
+  },
+  {
+    "mapName": "Bomb Dragoon Remnants",
+    "primaryItemName": "Bomb Dragoon",
+    "no": "1507463"
+  },
+  {
+    "mapName": "Rotten Tree Bark Remnants",
+    "primaryItemName": "Rotten Tree Bark",
+    "no": "1507464"
+  },
+  {
+    "mapName": "Spear Worm Remnants",
+    "primaryItemName": "Spear Worm",
+    "no": "1507465"
+  },
+  {
+    "mapName": "Underworld Core Remnants",
+    "primaryItemName": "Underworld Core",
+    "no": "1507466"
+  },
+  {
+    "mapName": "Old Magic Tome Remnants",
+    "primaryItemName": "Old Magic Tome",
+    "no": "1507467"
+  },
+  {
+    "mapName": "Holy Tree Leaf Remnants",
+    "primaryItemName": "Holy Tree Leaf",
+    "no": "1507468"
+  },
+  {
+    "mapName": "Honey Ant Tower",
+    "primaryItemName": "Honey Ant",
+    "no": "1507469"
+  },
+  {
+    "mapName": "Ashen Sand Tower",
+    "primaryItemName": "Ashen Sand",
+    "no": "1507470"
+  },
+  {
+    "mapName": "Rose Bee Tower",
+    "primaryItemName": "Rose Bee",
+    "no": "1507471"
+  },
+  {
+    "mapName": "Mushroom Powder Tower",
+    "primaryItemName": "Mushroom Powder",
+    "no": "1507472"
+  },
+  {
+    "mapName": "Sky Bubble Tower",
+    "primaryItemName": "Sky Bubble",
+    "no": "1507473"
+  },
+  {
+    "mapName": "Dark Crystal Fragment Tower",
+    "primaryItemName": "Dark Crystal Fragment",
+    "no": "1507474"
+  },
+  {
+    "mapName": "Gold Beehive Tower",
+    "primaryItemName": "Gold Beehive",
+    "no": "1507475"
+  },
+  {
+    "mapName": "Amber Fly Tower",
+    "primaryItemName": "Amber Fly",
+    "no": "1507476"
+  },
+  {
+    "mapName": "Forest Sage Tower",
+    "primaryItemName": "Forest Sage",
+    "no": "1507477"
+  },
+  {
+    "mapName": "Mythical Hide Tower",
+    "primaryItemName": "Mythical Hide",
+    "no": "1507478"
+  },
+  {
+    "mapName": "Wing Plant Locale",
+    "primaryItemName": "Wing Plant",
+    "no": "1507479"
+  },
+  {
+    "mapName": "Beast Venom Pouch Locale",
+    "primaryItemName": "Beast Venom Pouch",
+    "no": "1507480"
+  },
+  {
+    "mapName": "Lantern Fly Locale",
+    "primaryItemName": "Lantern Fly",
+    "no": "1507481"
+  },
+  {
+    "mapName": "Magic Tome Piece Locale",
+    "primaryItemName": "Magic Tome Piece",
+    "no": "1507482"
+  },
+  {
+    "mapName": "Crispy Mushroom Locale",
+    "primaryItemName": "Crispy Mushroom",
+    "no": "1507483"
+  },
+  {
+    "mapName": "Nectar Fruit Locale",
+    "primaryItemName": "Nectar Fruit",
+    "no": "1507484"
+  },
+  {
+    "mapName": "Nightglow Flower Locale",
+    "primaryItemName": "Nightglow Flower",
+    "no": "1507485"
+  },
+  {
+    "mapName": "Spring Princess Locale",
+    "primaryItemName": "Spring Princess",
+    "no": "1507486"
+  },
+  {
+    "mapName": "Medium Medicine Locale",
+    "primaryItemName": "Medium Medicine",
+    "no": "1507487"
+  },
+  {
+    "mapName": "Esplante Locale",
+    "primaryItemName": "Esplante",
+    "no": "1507488"
+  },
+  {
+    "mapName": "Lucky Clover Copse",
+    "primaryItemName": "Lucky Clover",
+    "no": "1507489"
+  },
+  {
+    "mapName": "Holy Arbor Branch Copse",
+    "primaryItemName": "Holy Arbor Branch",
+    "no": "1507490"
+  },
+  {
+    "mapName": "Wasser Wheat Copse",
+    "primaryItemName": "Wasser Wheat",
+    "no": "1507491"
+  },
+  {
+    "mapName": "Cotton Grass Copse",
+    "primaryItemName": "Cotton Grass",
+    "no": "1507492"
+  },
+  {
+    "mapName": "Bubble Grass Copse",
+    "primaryItemName": "Bubble Grass",
+    "no": "1507493"
+  },
+  {
+    "mapName": "Memorial Mist Flower Copse",
+    "primaryItemName": "Memorial Mist Flower",
+    "no": "1507494"
+  },
+  {
+    "mapName": "Palma Copse",
+    "primaryItemName": "Palma",
+    "no": "1507495"
+  },
+  {
+    "mapName": "Gold Uni Copse",
+    "primaryItemName": "Gold Uni",
+    "no": "1507496"
+  },
+  {
+    "mapName": "Rainbow Grape Copse",
+    "primaryItemName": "Rainbow Grape",
+    "no": "1507497"
+  },
+  {
+    "mapName": "Lantern Grass Copse",
+    "primaryItemName": "Lantern Grass",
+    "no": "1507498"
+  },
+  {
+    "mapName": "Maple Leaf Copse",
+    "primaryItemName": "Maple Leaf",
+    "no": "1507499"
+  },
+  {
+    "mapName": "Fossil Tree Copse",
+    "primaryItemName": "Fossil Tree",
+    "no": "1507500"
+  },
+  {
+    "mapName": "Rosen Leaf Copse",
+    "primaryItemName": "Rosen Leaf",
+    "no": "1507501"
+  },
+  {
+    "mapName": "Nameless Grass Copse",
+    "primaryItemName": "Nameless Grass",
+    "no": "1507502"
+  },
+  {
+    "mapName": "Eiche Copse",
+    "primaryItemName": "Eiche",
+    "no": "1507503"
+  },
+  {
+    "mapName": "Tough Log Copse",
+    "primaryItemName": "Tough Log",
+    "no": "1507504"
+  },
+  {
+    "mapName": "Jupitonion Copse",
+    "primaryItemName": "Jupitonion",
+    "no": "1507505"
+  },
+  {
+    "mapName": "Arbor Ivy Copse",
+    "primaryItemName": "Arbor Ivy",
+    "no": "1507506"
+  },
+  {
+    "mapName": "Delphi Rose Copse",
+    "primaryItemName": "Delphi Rose",
+    "no": "1507507"
+  },
+  {
+    "mapName": "Northern Wind Flower Copse",
+    "primaryItemName": "Northern Wind Flower",
+    "no": "1507508"
+  },
+  {
+    "mapName": "Oil Tree Fruit Copse",
+    "primaryItemName": "Oil Tree Fruit",
+    "no": "1507509"
+  },
+  {
+    "mapName": "Palma Fruit Copse",
+    "primaryItemName": "Palma Fruit",
+    "no": "1507510"
+  },
+  {
+    "mapName": "Mushroom Colony Copse",
+    "primaryItemName": "Mushroom Colony",
+    "no": "1507511"
+  },
+  {
+    "mapName": "Dunkelheit Copse",
+    "primaryItemName": "Dunkelheit",
+    "no": "1507512"
+  },
+  {
+    "mapName": "Amber Crystal Cliff",
+    "primaryItemName": "Amber Crystal",
+    "no": "1507513"
+  },
+  {
+    "mapName": "Rainbow Gemstone Cliff",
+    "primaryItemName": "Rainbow Gemstone",
+    "no": "1507514"
+  },
+  {
+    "mapName": "Aqua Ore Cliff",
+    "primaryItemName": "Aqua Ore",
+    "no": "1507515"
+  },
+  {
+    "mapName": "Flame Black Sand Cliff",
+    "primaryItemName": "Flame Black Sand",
+    "no": "1507516"
+  },
+  {
+    "mapName": "Beast Shell Cliff",
+    "primaryItemName": "Beast Shell",
+    "no": "1507517"
+  },
+  {
+    "mapName": "Cave Coral Cliff",
+    "primaryItemName": "Cave Coral",
+    "no": "1507518"
+  },
+  {
+    "mapName": "Degenesis Stone Cliff",
+    "primaryItemName": "Degenesis Stone",
+    "no": "1507519"
+  },
+  {
+    "mapName": "Goldinite Cliff",
+    "primaryItemName": "Goldinite",
+    "no": "1507520"
+  },
+  {
+    "mapName": "Lightning Ore Cliff",
+    "primaryItemName": "Lightning Ore",
+    "no": "1507521"
+  },
+  {
+    "mapName": "Unknown Gemstone Cliff",
+    "primaryItemName": "Unknown Gemstone",
+    "no": "1507522"
+  },
+  {
+    "mapName": "Shell Pearl Cliff",
+    "primaryItemName": "Shell Pearl",
+    "no": "1507523"
+  },
+  {
+    "mapName": "Coral Stone Cliff",
+    "primaryItemName": "Coral Stone",
+    "no": "1507524"
+  },
+  {
+    "mapName": "Marbled Stone Cliff",
+    "primaryItemName": "Marbled Stone",
+    "no": "1507525"
+  },
+  {
+    "mapName": "Septrin Cliff",
+    "primaryItemName": "Septrin",
+    "no": "1507526"
+  },
+  {
+    "mapName": "Nectar Rock Cliff",
+    "primaryItemName": "Nectar Rock",
+    "no": "1507527"
+  },
+  {
+    "mapName": "Waterside Moss Stone Cliff",
+    "primaryItemName": "Waterside Moss Stone",
+    "no": "1507528"
+  },
+  {
+    "mapName": "Beast Fossil Cliff",
+    "primaryItemName": "Beast Fossil",
+    "no": "1507529"
+  },
+  {
+    "mapName": "Riverstone Cliff",
+    "primaryItemName": "Riverstone",
+    "no": "1507530"
+  },
+  {
+    "mapName": "Holy Arbor Crystal Cliff",
+    "primaryItemName": "Holy Arbor Crystal",
+    "no": "1507531"
+  },
+  {
+    "mapName": "Small Crystal Cliff",
+    "primaryItemName": "Small Crystal",
+    "no": "1507532"
+  },
+  {
+    "mapName": "Large Bone Cliff",
+    "primaryItemName": "Large Bone",
+    "no": "1507533"
+  },
+  {
+    "mapName": "Ancient Pillar Cliff",
+    "primaryItemName": "Ancient Pillar",
+    "no": "1507534"
+  },
+  {
+    "mapName": "Stalactite Fragment Cliff",
+    "primaryItemName": "Stalactite Fragment",
+    "no": "1507535"
+  },
+  {
+    "mapName": "Blue Flame Riverstone Cliff",
+    "primaryItemName": "Blue Flame Riverstone",
+    "no": "1507536"
+  },
+  {
+    "mapName": "Silver Puniball Outer Sea",
+    "primaryItemName": "Silver Puniball",
+    "no": "1507537"
+  },
+  {
+    "mapName": "Myrietes Fish Outer Sea",
+    "primaryItemName": "Myria Fish",
+    "no": "1507538"
+  },
+  {
+    "mapName": "Sardine Outer Sea",
+    "primaryItemName": "Sardine",
+    "no": "1507539"
+  },
+  {
+    "mapName": "Plant Essence Outer Sea",
+    "primaryItemName": "Plant Essence",
+    "no": "1507540"
+  },
+  {
+    "mapName": "Selior Outer Sea",
+    "primaryItemName": "Selior",
+    "no": "1507541"
+  },
+  {
+    "mapName": "Maple Bark Outer Sea",
+    "primaryItemName": "Maple Bark",
+    "no": "1507542"
+  },
+  {
+    "mapName": "Mace Fish Outer Sea",
+    "primaryItemName": "Mace Fish",
+    "no": "1507543"
+  },
+  {
+    "mapName": "Underworld Master Outer Sea",
+    "primaryItemName": "Underworld Master",
+    "no": "1507544"
+  },
+  {
+    "mapName": "Pretty Shell Outer Sea",
+    "primaryItemName": "Pretty Shell",
+    "no": "1507545"
+  },
+  {
+    "mapName": "Natural Oil Outer Sea",
+    "primaryItemName": "Natural Oil",
+    "no": "1507546"
+  },
+  {
+    "mapName": "Palma Bark Outer Sea",
+    "primaryItemName": "Palma Bark",
+    "no": "1507547"
+  },
+  {
+    "mapName": "Jade Water Outer Sea",
+    "primaryItemName": "Jade Water",
+    "no": "1507548"
+  },
+  {
+    "mapName": "Triplet Taun Outer Sea",
+    "primaryItemName": "Triplet Taun",
+    "no": "1507549"
+  },
+  {
+    "mapName": "Lake Master Outer Sea",
+    "primaryItemName": "Lake Master",
+    "no": "1507550"
+  },
+  {
+    "mapName": "Taun Outer Sea",
+    "primaryItemName": "Taun",
+    "no": "1507551"
+  },
+  {
+    "mapName": "Beast Fin Outer Sea",
+    "primaryItemName": "Beast Fin",
+    "no": "1507552"
+  },
+  {
+    "mapName": "Xisor Outer Sea",
+    "primaryItemName": "Xisor",
+    "no": "1507553"
+  },
+  {
+    "mapName": "Black Puniball Outer Sea",
+    "primaryItemName": "Black Puniball",
+    "no": "1507554"
+  },
+  {
+    "mapName": "Ether Aqua Outer Sea",
+    "primaryItemName": "Ether Aqua",
+    "no": "1507555"
+  },
+  {
+    "mapName": "Clean Water Outer Sea",
+    "primaryItemName": "Clean Water",
+    "no": "1507556"
+  },
+  {
+    "mapName": "Exofish Outer Sea",
+    "primaryItemName": "Exofish",
+    "no": "1507557"
+  },
+  {
+    "mapName": "Spikey Outer Sea",
+    "primaryItemName": "Spikey",
+    "no": "1507558"
+  },
+  {
+    "mapName": "Medicine Moss Outer Sea",
+    "primaryItemName": "Medicine Moss",
+    "no": "1507559"
+  },
+  {
+    "mapName": "Mutant Taun Outer Sea",
+    "primaryItemName": "Mutant Taun",
+    "no": "1507560"
+  },
+  {
+    "mapName": "Palma Charcoal Site",
+    "primaryItemName": "Palma Charcoal",
+    "no": "1507561"
+  },
+  {
+    "mapName": "Baby Wyrm Site",
+    "primaryItemName": "Baby Wyrm",
+    "no": "1507562"
+  },
+  {
+    "mapName": "Trihorn Site",
+    "primaryItemName": "Trihorn",
+    "no": "1507563"
+  },
+  {
+    "mapName": "Kumine Poison Site",
+    "primaryItemName": "Kumine Poison",
+    "no": "1507564"
+  },
+  {
+    "mapName": "Dark Crystal Fragment Site",
+    "primaryItemName": "Dark Crystal Fragment",
+    "no": "1507565"
+  },
+  {
+    "mapName": "Rotwood Miasma Site",
+    "primaryItemName": "Rotwood Miasma",
+    "no": "1507566"
+  },
+  {
+    "mapName": "Beast Spirit Armor Site",
+    "primaryItemName": "Beast Spirit Armor",
+    "no": "1507567"
+  },
+  {
+    "mapName": "Holy Stone Fragment Site",
+    "primaryItemName": "Holy Stone Fragment",
+    "no": "1507568"
+  },
+  {
+    "mapName": "Seven Stars Site",
+    "primaryItemName": "Seven Stars",
+    "no": "1507569"
+  },
+  {
+    "mapName": "Emerald Glass Site",
+    "primaryItemName": "Emerald Glass",
+    "no": "1507570"
+  },
+  {
+    "mapName": "Lunatic Poison Lance Site",
+    "primaryItemName": "Lunatic Poison Lance",
+    "no": "1507571"
+  },
+  {
+    "mapName": "Forest Sage Site",
+    "primaryItemName": "Forest Sage",
+    "no": "1507572"
+  },
+  {
+    "mapName": "Death's Grief Site",
+    "primaryItemName": "Death's Grief",
+    "no": "1507573"
+  },
+  {
+    "mapName": "Dragon Egg Site",
+    "primaryItemName": "Dragon Egg",
+    "no": "1507574"
+  },
+  {
+    "mapName": "Honey Ant Site",
+    "primaryItemName": "Honey Ant",
+    "no": "1507575"
+  },
+  {
+    "mapName": "Giant Beetle Site",
+    "primaryItemName": "Giant Beetle",
+    "no": "1507576"
+  },
+  {
+    "mapName": "Gold Beehive Site",
+    "primaryItemName": "Gold Beehive",
+    "no": "1507577"
+  },
+  {
+    "mapName": "Lapis Papillion Site",
+    "primaryItemName": "Lapis Papillion",
+    "no": "1507578"
+  },
+  {
+    "mapName": "Golden Crown Site",
+    "primaryItemName": "Golden Crown",
+    "no": "1507579"
+  },
+  {
+    "mapName": "Gold Puniball Site",
+    "primaryItemName": "Gold Puniball",
+    "no": "1507580"
+  },
+  {
+    "mapName": "Ashen Sand Site",
+    "primaryItemName": "Ashen Sand",
+    "no": "1507581"
+  },
+  {
+    "mapName": "Sky Bubble Site",
+    "primaryItemName": "Sky Bubble",
+    "no": "1507582"
+  },
+  {
+    "mapName": "Amber Fly Site",
+    "primaryItemName": "Amber Fly",
+    "no": "1507583"
+  },
+  {
+    "mapName": "Mythical Hide Site",
+    "primaryItemName": "Mythical Hide",
+    "no": "1507584"
+  },
+  {
+    "mapName": "Gold Uni Ravine",
+    "primaryItemName": "Gold Uni",
+    "no": "1507585"
+  },
+  {
+    "mapName": "Golden Crown Ravine",
+    "primaryItemName": "Golden Crown",
+    "no": "1507586"
+  },
+  {
+    "mapName": "Gold Beehive Ravine",
+    "primaryItemName": "Gold Beehive",
+    "no": "1507587"
+  },
+  {
+    "mapName": "Magma Powder Ravine",
+    "primaryItemName": "Magma Powder",
+    "no": "1507588"
+  },
+  {
+    "mapName": "Delphi Rose Ravine",
+    "primaryItemName": "Delphi Rose",
+    "no": "1507589"
+  },
+  {
+    "mapName": "Rotwood Miasma Ravine",
+    "primaryItemName": "Rotwood Miasma",
+    "no": "1507590"
+  },
+  {
+    "mapName": "Underworld Master Ravine",
+    "primaryItemName": "Underworld Master",
+    "no": "1507591"
+  },
+  {
+    "mapName": "Rainbow Gemstone Ravine",
+    "primaryItemName": "Rainbow Gemstone",
+    "no": "1507592"
+  },
+  {
+    "mapName": "Septrin Domain",
+    "primaryItemName": "Septrin",
+    "no": "1507593"
+  },
+  {
+    "mapName": "Polluted Humus Domain",
+    "primaryItemName": "Polluted Humus",
+    "no": "1507594"
+  },
+  {
+    "mapName": "Rosen Leaf Domain",
+    "primaryItemName": "Rosen Leaf",
+    "no": "1507595"
+  },
+  {
+    "mapName": "Jade Water Domain",
+    "primaryItemName": "Jade Water",
+    "no": "1507596"
+  },
+  {
+    "mapName": "Ethereal Stone Domain",
+    "primaryItemName": "Ethereal Stone",
+    "no": "1507597"
+  },
+  {
+    "mapName": "Atonement Stinger Domain",
+    "primaryItemName": "Atonement Stinger",
+    "no": "1507598"
+  },
+  {
+    "mapName": "Palma Charcoal Domain",
+    "primaryItemName": "Palma Charcoal",
+    "no": "1507599"
+  },
+  {
+    "mapName": "Death's Grief Domain",
+    "primaryItemName": "Death's Grief",
+    "no": "1507600"
+  }
+]
