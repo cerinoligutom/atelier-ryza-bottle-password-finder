@@ -1,6 +1,11 @@
 import type { NuxtConfig } from 'nuxt/config';
 
-const runtimeConfig: NuxtConfig['runtimeConfig'] = {};
+const isProduction = process.env.NODE_ENV === 'production';
+const PRODUCTION_HOST = process.env.PRODUCTION_HOST ?? 'https://ryza-pw-finder.zeferinix.com';
+
+const runtimeConfig: NuxtConfig['runtimeConfig'] = {
+  host: isProduction ? PRODUCTION_HOST : 'http://localhost:3000',
+};
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
@@ -40,5 +45,17 @@ export default defineNuxtConfig({
     ],
     'nuxt-icon',
     '@nuxtjs/web-vitals',
+    'nuxt-lodash',
+    [
+      'nuxt-graphql-server',
+      {
+        url: '/api/graphql',
+        schema: './src/server/**/*.graphql',
+        codegen: {
+          enumValues: '~/enums/index',
+          contextType: '~/server/graphql/IGraphQLContext#IGraphQLContext',
+        },
+      },
+    ],
   ],
 });
