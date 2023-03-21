@@ -1,6 +1,11 @@
 import type { NuxtConfig } from 'nuxt/config';
 
-const runtimeConfig: NuxtConfig['runtimeConfig'] = {};
+const isProduction = process.env.NODE_ENV === 'production';
+const PRODUCTION_HOST = process.env.PRODUCTION_HOST ?? 'https://ryza-pw-finder.zeferinix.com';
+
+const runtimeConfig: NuxtConfig['runtimeConfig'] = {
+  host: isProduction ? PRODUCTION_HOST : 'http://localhost:3000',
+};
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({

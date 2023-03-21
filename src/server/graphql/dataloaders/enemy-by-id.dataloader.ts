@@ -1,4 +1,5 @@
 import { enemyService } from '../../services';
+import { createDataLoader } from '~/utils/create-dataloader.util';
 
 export const enemyByIdLoader = () => {
   return createDataLoader(async (ids: string[]) => {

@@ -8,4 +8,3 @@ generated/
 
 # pnpm
 pnpm-lock.yaml
-data/**/*.processed.ts

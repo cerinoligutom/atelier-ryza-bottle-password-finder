@@ -1,4 +1,5 @@
 import { fieldMixEnemyService } from '../../services';
+import { createDataLoader } from '~/utils/create-dataloader.util';
 
 export const fieldMixEnemyByIdLoader = () => {
   return createDataLoader(async (ids: string[]) => {

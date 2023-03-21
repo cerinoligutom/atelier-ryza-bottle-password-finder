@@ -5,9 +5,9 @@ export const getProcessedData = <T>(fileName: string, filePath: string): T => {
   let data = '[]';
 
   try {
-    data = fs.readFileSync(`${filePath}/${fileName}.processed.json`, 'utf8');
+    data = fs.readFileSync(`${filePath}/${fileName}_processed.json`, 'utf8');
   } catch {
-    console.error(`Failed to read ${fileName}.processed.json`);
+    console.error(`Failed to read ${fileName}_processed.json`);
   }
   return JSON.parse(data);
 };

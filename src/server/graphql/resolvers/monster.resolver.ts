@@ -1,5 +1,5 @@
 import { PasswordResultResolvers, PasswordResult, EnemyMonster } from '#graphql/resolver';
-import type { IFieldMixMap } from '~~/data/FieldMixMap';
+import type { IFieldMixMap } from '../../data/types';
 
 export const monsterResolver: PasswordResultResolvers['monster'] = async (parent, args, { loaders }) => {
   const { fieldMixMapInfoNo } = parent as PasswordResult & IFieldMixMap;

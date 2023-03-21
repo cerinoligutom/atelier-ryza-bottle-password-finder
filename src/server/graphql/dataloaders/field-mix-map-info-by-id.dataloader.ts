@@ -1,4 +1,5 @@
 import { fieldMixMapInfoService } from '../../services';
+import { createDataLoader } from '~/utils/create-dataloader.util';
 
 export const fieldMixMapInfoByIdLoader = () => {
   return createDataLoader(async (ids: string[]) => {

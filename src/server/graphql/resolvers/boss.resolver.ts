@@ -1,5 +1,5 @@
 import { PasswordResultResolvers, PasswordResult, EnemyBoss } from '#graphql/resolver';
-import type { IFieldMixMap } from '~~/data/FieldMixMap';
+import type { IFieldMixMap } from '../../data/types';
 import { EnemyBossType } from '~/enums/enemy-boss-type.enum';
 
 export const bossResolver: PasswordResultResolvers['boss'] = async (parent, args, { loaders }) => {
