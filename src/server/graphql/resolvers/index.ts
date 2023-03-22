@@ -5,6 +5,7 @@ import { secondaryItemResolver } from './secondary-item.resolver';
 import { monsterResolver } from './monster.resolver';
 import { bossResolver } from './boss.resolver';
 import { itemNameResolver } from './item-name.resolver';
+import { EnemyBossType } from '~/enums';
 
 export const resolvers: Resolvers = {
   Query: {
@@ -17,4 +18,5 @@ export const resolvers: Resolvers = {
     monster: monsterResolver,
     boss: bossResolver,
   },
+  EnemyBossType,
 };

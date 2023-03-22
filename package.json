@@ -14,6 +14,7 @@
     "@as-integrations/h3": "^1.1.5",
     "@nuxt/devtools": "^0.2.5",
     "@nuxt/image-edge": "1.0.0-27968280.9739e4d",
+    "@nuxtjs/apollo": "5.0.0-alpha.6",
     "@nuxtjs/eslint-module": "^4.0.2",
     "@nuxtjs/google-fonts": "3.0.0",
     "@nuxtjs/tailwindcss": "^6.6.0",
