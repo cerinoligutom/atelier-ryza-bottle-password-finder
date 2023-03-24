@@ -1,0 +1,33 @@
+:root {
+  --background-color: 255, 255, 255;
+  --text-on-background-color: 0, 0, 0;
+  --border-color: 221, 221, 221;
+
+  --password-text-color: 14, 163, 246;
+  --placeholder-text-color: 153, 153, 153;
+  --entry-cost-text-color: 119, 119, 119;
+  --table-header-background-color: 241, 241, 241;
+  --table-header-text-on-background-color: 0, 0, 0;
+}
+
+html {
+  color: rgb(var(--text-on-background-color));
+  background-color: rgb(233, 235, 238);
+
+  &.htw-dark,
+  &.mode-dark,
+  &.dark {
+    --background-color: 57, 48, 83;
+    --text-on-background-color: 205, 196, 233;
+    --border-color: 126, 114, 160;
+
+    --password-text-color: 14, 163, 246;
+    --placeholder-text-color: 204, 204, 204;
+    --entry-cost-text-color: 204, 204, 204;
+    --table-header-text-on-background-color: 221, 221, 221;
+    --table-header-background-color: 57, 48, 83;
+
+    color: rgb(var(--text-on-background-color));
+    background-color: rgb(68, 60, 104);
+  }
+}

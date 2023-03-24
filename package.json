@@ -7,11 +7,16 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare && husky install",
     "lint": "eslint ./",
-    "preprocess": "npx ts-node ./data/preprocess.ts"
+    "preprocess": "npx ts-node ./data/preprocess.ts",
+    "story:dev": "histoire dev",
+    "story:build": "histoire build",
+    "story:preview": "histoire preview --port 4567"
   },
   "devDependencies": {
     "@apollo/server": "^4.5.0",
     "@as-integrations/h3": "^1.1.5",
+    "@histoire/plugin-nuxt": "^0.15.9",
+    "@histoire/plugin-vue": "^0.15.8",
     "@nuxt/devtools": "^0.2.5",
     "@nuxt/image-edge": "1.0.0-27968280.9739e4d",
     "@nuxtjs/apollo": "5.0.0-alpha.6",
@@ -34,6 +39,7 @@
     "eslint-plugin-vue": "^9.9.0",
     "eslint-plugin-yml": "^1.5.0",
     "graphql": "^16.6.0",
+    "histoire": "^0.15.9",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.0",
     "natural-orderby": "^3.0.2",
@@ -43,6 +49,8 @@
     "nuxt-lodash": "^2.4.1",
     "nuxt-typed-router": "^3.0.6",
     "prettier": "^2.8.5",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.26.0",
     "typescript": "^5.0.2",
     "xml2js": "^0.4.23",
     "zod": "^3.21.4"

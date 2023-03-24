@@ -1,4 +1,3 @@
-import type { MaybeRef } from '@vueuse/core';
 import { EnemyBossType } from '~/enums';
 
 const passwordResultFragment = gql`
@@ -68,10 +67,10 @@ type PasswordResultInput = {
   levelLimit?: number;
 };
 
-export const useFindByItemNameGQL = (variables: MaybeRef<PasswordResultInput>) => {
+export const useFindByItemNameGQL = (variables: Parameters<typeof useQuery<unknown, PasswordResultInput>>[1]) => {
   return useQuery<{ itemName: PasswordResult[] }>(findByItemNameQuery, variables);
 };
 
-export const useFindByPasswordGQL = (variables: MaybeRef<PasswordResultInput>) => {
+export const useFindByPasswordGQL = (variables: Parameters<typeof useQuery<unknown, PasswordResultInput>>[1]) => {
   return useQuery<{ password: PasswordResult[] }>(findByPasswordQuery, variables);
 };
