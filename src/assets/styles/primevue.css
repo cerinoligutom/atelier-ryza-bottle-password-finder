@@ -45,3 +45,51 @@
 .p-datatable-wrapper {
   @apply rounded;
 }
+
+.p-datatable .p-datatable-thead > tr > th {
+  @apply py-[20px];
+  @apply text-table-header-on-background bg-table-header-background;
+  @apply border-border-color;
+}
+
+.p-datatable .p-datatable-tbody > tr {
+  @apply text-on-background bg-background;
+}
+
+.p-datatable .p-datatable-tbody > tr:focus {
+  @apply outline-none;
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+  @apply border-border-color;
+}
+
+.p-datatable .p-paginator-bottom {
+  @apply mt-[8px] border-none;
+}
+
+.p-paginator {
+  @apply text-on-background bg-background;
+}
+
+.p-paginator .p-paginator-current {
+  @apply text-on-background bg-background;
+}
+
+.p-paginator .p-paginator-first,
+.p-paginator .p-paginator-prev,
+.p-paginator .p-paginator-next,
+.p-paginator .p-paginator-last {
+  @apply border-none text-on-background bg-background;
+}
+
+.p-paginator .p-paginator-first:not(.p-disabled):not(.p-highlight):hover,
+.p-paginator .p-paginator-prev:not(.p-disabled):not(.p-highlight):hover,
+.p-paginator .p-paginator-next:not(.p-disabled):not(.p-highlight):hover,
+.p-paginator .p-paginator-last:not(.p-disabled):not(.p-highlight):hover {
+  @apply text-on-background bg-background;
+}
+
+.p-link:focus {
+  @apply shadow-[0_0_0_1px] shadow-border-color;
+}

@@ -1,9 +1,9 @@
 <template>
   <div>
     <div class="bg-background">
-      <MenuBar class="container mx-auto" />
+      <MenuBar />
     </div>
-    <main class="container mx-auto mt-[40px]">
+    <main class="container mx-auto mt-[40px] mb-[80px]">
       <slot />
     </main>
   </div>

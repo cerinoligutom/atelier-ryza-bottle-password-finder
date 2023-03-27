@@ -67,10 +67,11 @@ type PasswordResultInput = {
   levelLimit?: number;
 };
 
-export const useFindByItemNameGQL = (variables: Parameters<typeof useQuery<unknown, PasswordResultInput>>[1]) => {
-  return useQuery<{ itemName: PasswordResult[] }>(findByItemNameQuery, variables);
+export const useFindByItemNameGQL = (variables: Parameters<typeof useQuery<unknown, PasswordResultInput>>[1], enabled: Ref<boolean>) => {
+  // NOTE: A small note but the query here doesn't react if `variables` is of type `Ref`. Seems to work fine with `reactive` though.
+  return useQuery<{ itemName: PasswordResult[] }>(findByItemNameQuery, variables, () => ({ enabled: enabled.value }));
 };
 
-export const useFindByPasswordGQL = (variables: Parameters<typeof useQuery<unknown, PasswordResultInput>>[1]) => {
-  return useQuery<{ password: PasswordResult[] }>(findByPasswordQuery, variables);
+export const useFindByPasswordGQL = (variables: Parameters<typeof useQuery<unknown, PasswordResultInput>>[1], enabled: Ref<boolean>) => {
+  return useQuery<{ password: PasswordResult[] }>(findByPasswordQuery, variables, () => ({ enabled: enabled.value }));
 };

@@ -1,7 +1,17 @@
 import { QueryResolvers } from '#graphql/resolver';
 import { itemDropsService } from '../../services';
+import { z } from 'zod';
 
-export const itemNameResolver: QueryResolvers['itemName'] = async (_, { input, levelLimit }) => {
+const schema = z.object({
+  input: z.string().trim(),
+  levelLimit: z.number().min(1).optional(),
+});
+
+export const itemNameResolver: QueryResolvers['itemName'] = async (_, args) => {
+  const { input, levelLimit } = schema.parse(args);
+
+  if (!input) return [];
+
   const results = itemDropsService.findByName(input, levelLimit);
 
   return results;
