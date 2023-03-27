@@ -1,42 +1,34 @@
-# Nuxt 3 Minimal Starter
+# Atelier Ryza - Bottle Password Finder
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A simple password lookup app for the travel bottle in the game Atelier Ryza: Ever Darkness & the Secret Hideout.
+
+This is an over-engineered solution to a simple problem. I wanted to try out Nuxt 3 and some of the available modules and this is the result.
+
+## Features
+
+- Search by Item Name
+- Search by Password
+- Filter by Level Limit
+- Light and Dark Theme
 
 ## Setup
 
 Make sure to install the dependencies:
 
 ```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
 pnpm install
 ```
 
-## Development Server
+### Development Server
 
 Start the development server on http://localhost:3000
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
-## Production
-
-Build the application for production:
+There's also the component stories (powered by Histoire)
 
 ```bash
-npm run build
+pnpm story:dev
 ```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
