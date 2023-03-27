@@ -1,0 +1,95 @@
+/* PrimeVue Overrides */
+.p-inputtext {
+  @apply text-on-background;
+}
+
+/* Dropdown */
+
+.p-dropdown:not(.p-disabled):hover {
+  @apply border-border-color;
+}
+
+.p-dropdown:not(.p-disabled).p-focus {
+  @apply shadow-none outline-none border-border-color;
+  @apply outline-none ring-2 ring-border-color border-border-color;
+}
+
+/* Dropdown Panel */
+
+.p-dropdown-panel {
+  @apply mt-[4px] rounded bg-background text-on-background;
+}
+
+.p-dropdown-panel .p-dropdown-items {
+  @apply p-[6px];
+}
+
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item {
+  @apply text-on-background p-[6px];
+}
+
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item:not(.p-highlight):not(.p-disabled):hover {
+  @apply text-on-background bg-background brightness-75;
+}
+
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item.p-highlight.p-focus {
+  @apply text-on-background bg-background brightness-90;
+}
+
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item.p-highlight {
+  @apply text-on-background bg-background brightness-90;
+}
+
+/* DataTable */
+
+.p-datatable-wrapper {
+  @apply rounded;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+  @apply py-[20px];
+  @apply text-table-header-on-background bg-table-header-background;
+  @apply border-border-color;
+}
+
+.p-datatable .p-datatable-tbody > tr {
+  @apply text-on-background bg-background;
+}
+
+.p-datatable .p-datatable-tbody > tr:focus {
+  @apply outline-none;
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+  @apply border-border-color;
+}
+
+.p-datatable .p-paginator-bottom {
+  @apply mt-[8px] border-none;
+}
+
+.p-paginator {
+  @apply text-on-background bg-background;
+}
+
+.p-paginator .p-paginator-current {
+  @apply text-on-background bg-background;
+}
+
+.p-paginator .p-paginator-first,
+.p-paginator .p-paginator-prev,
+.p-paginator .p-paginator-next,
+.p-paginator .p-paginator-last {
+  @apply border-none text-on-background bg-background;
+}
+
+.p-paginator .p-paginator-first:not(.p-disabled):not(.p-highlight):hover,
+.p-paginator .p-paginator-prev:not(.p-disabled):not(.p-highlight):hover,
+.p-paginator .p-paginator-next:not(.p-disabled):not(.p-highlight):hover,
+.p-paginator .p-paginator-last:not(.p-disabled):not(.p-highlight):hover {
+  @apply text-on-background bg-background;
+}
+
+.p-link:focus {
+  @apply shadow-[0_0_0_1px] shadow-border-color;
+}

@@ -5,7 +5,7 @@ import { initLoaders } from '../graphql/dataloaders';
 import { IGraphQLContext } from '../graphql/IGraphQLContext';
 import { resolvers } from '../graphql/resolvers';
 
-const apollo = new ApolloServer({ typeDefs: schema, resolvers });
+const apollo = new ApolloServer({ typeDefs: schema, resolvers, introspection: true });
 
 export default startServerAndCreateH3Handler(apollo, {
   // eslint-disable-next-line @typescript-eslint/no-unused-vars

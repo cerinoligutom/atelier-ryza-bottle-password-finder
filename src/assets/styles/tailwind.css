@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .form-control {
+    @apply p-[12px] h-[44px] bg-background text-on-background border-2 border-border-color rounded placeholder-placeholder-color;
+    @apply focus:enabled:outline-none focus:enabled:ring-2 focus:enabled:ring-border-color focus:enabled:border-border-color;
+    @apply hover:enabled:border-border-color;
+  }
+}

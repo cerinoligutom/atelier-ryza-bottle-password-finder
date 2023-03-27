@@ -2,19 +2,36 @@ import type { NuxtConfig } from 'nuxt/config';
 
 const isProduction = process.env.NODE_ENV === 'production';
 const PRODUCTION_HOST = process.env.PRODUCTION_HOST ?? 'https://ryza-pw-finder.zeferinix.com';
+const LOCAL_HOST = 'http://localhost:3000';
+const HOST = isProduction ? PRODUCTION_HOST : LOCAL_HOST;
 
 const runtimeConfig: NuxtConfig['runtimeConfig'] = {
-  host: isProduction ? PRODUCTION_HOST : 'http://localhost:3000',
+  host: HOST,
+
+  public: {
+    GQL_HOST: `${HOST}/api/graphql`,
+  },
 };
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   runtimeConfig,
 
+  css: [
+    'primevue/resources/themes/tailwind-light/theme.css',
+    'primevue/resources/primevue.css',
+    'primeicons/primeicons.css',
+    '@/assets/styles/main.css', // NOTE: ORDER IS IMPORTANT HERE, WE MUST BE ABLE TO OVERRIDE PRIMEVUE STYLES
+  ],
+
   srcDir: 'src/',
 
   imports: {
     dirs: ['./store/**', './composables/**'],
+  },
+
+  build: {
+    transpile: ['primevue'],
   },
 
   modules: [
@@ -49,7 +66,7 @@ export default defineNuxtConfig({
     [
       'nuxt-graphql-server',
       {
-        url: '/api/graphql',
+        url: runtimeConfig.public?.GQL_HOST,
         schema: './src/server/**/*.graphql',
         codegen: {
           enumValues: '~/enums/index',
@@ -57,5 +74,25 @@ export default defineNuxtConfig({
         },
       },
     ],
+    [
+      '@nuxtjs/apollo',
+      {
+        autoImports: true,
+        clients: {
+          default: {
+            httpEndpoint: runtimeConfig.public?.GQL_HOST,
+          },
+        },
+      },
+    ],
   ],
+
+  postcss: {
+    plugins: {
+      'postcss-import': {},
+      'tailwindcss/nesting': {},
+      tailwindcss: {},
+      autoprefixer: {},
+    },
+  },
 });
