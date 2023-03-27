@@ -13,7 +13,7 @@ export const passwordResolver: QueryResolvers['password'] = async (_, args) => {
 
   if (!input) return [];
 
-  const results = bottlePasswordsService.getByPassword(input, levelLimit);
+  const results = await bottlePasswordsService.getByPassword(input, levelLimit);
 
   return results as (PasswordResult & IFieldMixMap)[];
 };

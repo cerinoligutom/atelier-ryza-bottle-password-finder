@@ -1,7 +1,11 @@
-import { FieldMixMapQB } from '../data';
+import { FieldMixMapQB, hasEmptyData, initData } from '../data';
 import { OrderByDirection } from '~/enums';
 
-function getByPassword(password: string, levelLimit = 100) {
+async function getByPassword(password: string, levelLimit = 100) {
+  if (hasEmptyData()) {
+    await initData();
+  }
+
   return FieldMixMapQB.like('password', password)
     .lessThan('level', levelLimit + 1)
     .orderBy('level', OrderByDirection.DESC)

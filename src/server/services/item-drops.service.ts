@@ -1,9 +1,13 @@
-import { FieldMixMapQB } from '../data';
+import { FieldMixMapQB, hasEmptyData, initData } from '../data';
 import { orderBy } from 'natural-orderby';
 import { OrderByDirection } from '~/enums';
 import { uniqBy } from 'lodash-es';
 
-function findByName(name: string, levelLimit = 100) {
+async function findByName(name: string, levelLimit = 100) {
+  if (hasEmptyData()) {
+    await initData();
+  }
+
   const primaryItemResults = FieldMixMapQB.like('primaryItemName', name)
     .lessThan('level', levelLimit + 1)
     .exec();

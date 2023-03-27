@@ -12,7 +12,7 @@ export const itemNameResolver: QueryResolvers['itemName'] = async (_, args) => {
 
   if (!input) return [];
 
-  const results = itemDropsService.findByName(input, levelLimit);
+  const results = await itemDropsService.findByName(input, levelLimit);
 
   return results;
 };
