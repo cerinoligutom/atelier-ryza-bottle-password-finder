@@ -92,6 +92,11 @@
 import PVDataTable from 'primevue/datatable';
 import PVColumn from 'primevue/column';
 
+useServerSeoMeta({
+  title: 'Atelier Ryza: Bottle Password Finder',
+  description: 'A tool that helps you find passwords easily. Try it now!',
+});
+
 const { copy: copyPassword } = useClipboard({ legacy: true });
 
 const FIND_BY_OPTIONS = [
