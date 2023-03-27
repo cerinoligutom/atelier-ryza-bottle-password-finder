@@ -1,6 +1,6 @@
 import { EnemyDataQB, FieldMixEnemyQB, FieldMixMapInfoQB, FieldMixMapQB } from '../data';
 
-export default defineEventHandler((event) => {
+export default defineEventHandler(async () => {
   /**
    * FIXME: Isomorphic fetch against `public/` directory doesn't work.
    *
@@ -8,7 +8,7 @@ export default defineEventHandler((event) => {
    *
    * Current workaround is to include the host in the url.
    */
-  function initData() {
+  async function initData() {
     const { host } = useRuntimeConfig();
 
     // So how did we end up with these bunch of fetches? Things that were attempted:
@@ -19,33 +19,47 @@ export default defineEventHandler((event) => {
     //
     // And finally, here we are, serving the JSON statically and fetching it. It's not ideal but it works and good enough for what we need here.
 
-    $fetch(`${host}/data/enemy_data.json`, {
-      onResponse({ response: { _data } }) {
-        EnemyDataQB.$setData(_data);
-        console.log('EnemyData:', EnemyDataQB['_data'].length);
-      },
-    });
-    $fetch(`${host}/data/FieldMixEnemy.json`, {
-      onResponse({ response: { _data } }) {
-        FieldMixEnemyQB.$setData(_data);
-        console.log('FieldMixEnemy:', FieldMixEnemyQB['_data'].length);
-      },
-    });
-    $fetch(`${host}/data/FieldMixMap.json`, {
-      onResponse({ response: { _data } }) {
-        FieldMixMapQB.$setData(_data);
-        console.log('FieldMixMap:', FieldMixMapQB['_data'].length);
-      },
-    });
-    $fetch(`${host}/data/FieldMixMapInfo.json`, {
-      onResponse({ response: { _data } }) {
-        FieldMixMapInfoQB.$setData(_data);
-        console.log('FieldMixMapInfo:', FieldMixMapInfoQB['_data'].length);
-      },
-    });
+    return await Promise.all([
+      $fetch(`${host}/data/enemy_data.json`, {
+        onResponse({ response: { _data } }) {
+          EnemyDataQB.$setData(_data);
+        },
+      }).then(() => {
+        const EnemyDataQBCount = EnemyDataQB['_data'].length;
+        console.log('EnemyData:', EnemyDataQBCount);
+        return EnemyDataQBCount;
+      }),
+
+      $fetch(`${host}/data/FieldMixEnemy.json`, {
+        onResponse({ response: { _data } }) {
+          FieldMixEnemyQB.$setData(_data);
+        },
+      }).then(() => {
+        const FieldMixEnemyQBCount = FieldMixEnemyQB['_data'].length;
+        console.log('FieldMixEnemy:', FieldMixEnemyQBCount);
+        return FieldMixEnemyQBCount;
+      }),
+
+      $fetch(`${host}/data/FieldMixMap.json`, {
+        onResponse({ response: { _data } }) {
+          FieldMixMapQB.$setData(_data);
+        },
+      }).then(() => {
+        const FieldMixMapQBCount = FieldMixMapQB['_data'].length;
+        console.log('FieldMixMap:', FieldMixMapQBCount);
+        return FieldMixMapQBCount;
+      }),
+
+      $fetch(`${host}/data/FieldMixMapInfo.json`, {
+        onResponse({ response: { _data } }) {
+          FieldMixMapInfoQB.$setData(_data);
+        },
+      }).then(() => {
+        const FieldMixMapInfoQBCount = FieldMixMapInfoQB['_data'].length;
+        console.log('FieldMixMapInfo:', FieldMixMapInfoQBCount);
+        return FieldMixMapInfoQBCount;
+      }),
+    ]);
   }
-  initData();
-  return {
-    ok: true,
-  };
+  return await initData();
 });
