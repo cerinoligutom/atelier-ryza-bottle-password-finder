@@ -23,7 +23,6 @@
     "@nuxtjs/eslint-module": "^4.0.2",
     "@nuxtjs/google-fonts": "3.0.0",
     "@nuxtjs/tailwindcss": "^6.6.0",
-    "@nuxtjs/web-vitals": "^0.2.4",
     "@pinia/nuxt": "^0.4.7",
     "@types/xml2js": "^0.4.11",
     "@typescript-eslint/eslint-plugin": "^5.55.0",
@@ -54,5 +53,8 @@
     "typescript": "^5.0.2",
     "xml2js": "^0.4.23",
     "zod": "^3.21.4"
+  },
+  "dependencies": {
+    "@nuxtjs/web-vitals": "^0.2.4"
   }
 }
