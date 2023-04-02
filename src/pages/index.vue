@@ -37,7 +37,7 @@
     </div>
 
     <div class="mt-[40px] w-[80%] flex flex-col">
-      <div class="self-center mt-[250px] text-center" v-if="passwordResults.length === 0">
+      <div v-if="passwordResults.length === 0" class="self-center mt-[250px] text-center">
         <p class="text-[16px] font-bold">Nothing to see here.</p>
         <p class="text-[14px] mt-[8px] text-placeholder-color">Results will show up here if we find anything.</p>
       </div>
