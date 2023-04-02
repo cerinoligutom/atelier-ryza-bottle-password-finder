@@ -56,11 +56,18 @@
           >
             <PVColumn field="password" header="PASSWORD">
               <template #body="{ data }">
-                <div class="flex flex-row items-center group">
+                <div v-element-hover="() => (hasCopiedPassword = false)" class="flex flex-row items-center group/password">
                   <span class="font-mono text-password-color text-[20px] mr-[8px]">{{ data.password }}</span>
-                  <button v-tooltip.top="'Copy password'" class="hidden group-hover:block" @click="copyPassword(data.password)">
-                    <Icon :size="'16px'" :name="'material-symbols:file-copy-outline'" />
-                  </button>
+                  <div class="relative flex-col items-center hidden group/password-icon group-hover/password:flex">
+                    <div
+                      class="rounded absolute whitespace-nowrap left-[120%] hidden group-hover/password-icon:block px-[8px] py-[4px] bg-[black] text-[white]"
+                    >
+                      {{ copyTooltipMessage }}
+                    </div>
+                    <button @click="onCopyPassword(data.password)">
+                      <Icon :size="'16px'" :name="'material-symbols:file-copy-outline'" />
+                    </button>
+                  </div>
                 </div>
               </template>
             </PVColumn>
@@ -98,6 +105,7 @@
 <script lang="ts" setup>
 import PVDataTable from 'primevue/datatable';
 import PVColumn from 'primevue/column';
+import { vElementHover } from '@vueuse/components';
 
 useServerSeoMeta({
   title: 'Atelier Ryza: Bottle Password Finder',
@@ -105,6 +113,13 @@ useServerSeoMeta({
 });
 
 const { copy: copyPassword } = useClipboard({ legacy: true });
+const hasCopiedPassword = ref(false);
+const copyTooltipMessage = computed(() => (hasCopiedPassword.value ? 'Password copied!' : 'Click to copy password'));
+
+function onCopyPassword(password: string) {
+  copyPassword(password);
+  hasCopiedPassword.value = true;
+}
 
 const FIND_BY_OPTIONS = [
   {
