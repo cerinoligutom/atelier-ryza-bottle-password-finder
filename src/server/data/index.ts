@@ -26,7 +26,7 @@ export async function initData() {
   // And finally, here we are, serving the JSON statically and fetching it. It's not ideal but it works and good enough for what we need here.
 
   return await Promise.all([
-    $fetch(`${host}/data/enemy_data.json`, {
+    $fetch(`${host}data/enemy_data.json`, {
       onResponse({ response: { _data } }) {
         EnemyDataQB.$setData(_data);
       },
@@ -36,7 +36,7 @@ export async function initData() {
       return EnemyDataQBCount;
     }),
 
-    $fetch(`${host}/data/FieldMixEnemy.json`, {
+    $fetch(`${host}data/FieldMixEnemy.json`, {
       onResponse({ response: { _data } }) {
         FieldMixEnemyQB.$setData(_data);
       },
@@ -46,7 +46,7 @@ export async function initData() {
       return FieldMixEnemyQBCount;
     }),
 
-    $fetch(`${host}/data/FieldMixMap.json`, {
+    $fetch(`${host}data/FieldMixMap.json`, {
       onResponse({ response: { _data } }) {
         FieldMixMapQB.$setData(_data);
       },
@@ -56,7 +56,7 @@ export async function initData() {
       return FieldMixMapQBCount;
     }),
 
-    $fetch(`${host}/data/FieldMixMapInfo.json`, {
+    $fetch(`${host}data/FieldMixMapInfo.json`, {
       onResponse({ response: { _data } }) {
         FieldMixMapInfoQB.$setData(_data);
       },
