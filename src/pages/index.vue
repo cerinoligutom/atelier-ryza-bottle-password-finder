@@ -57,7 +57,15 @@
             <PVColumn field="password" header="PASSWORD">
               <template #body="{ data }">
                 <div v-element-hover="() => (hasCopiedPassword = false)" class="flex flex-row items-center group/password">
-                  <span class="font-mono text-password-color text-[20px] mr-[8px]">{{ data.password }}</span>
+                  <span class="font-mono text-password-color text-[20px] mr-[8px]">
+                    <Highlighter
+                      v-if="findBy === 'PASSWORD'"
+                      highlight-class-name="font-bold underline"
+                      :text-to-highlight="data.password"
+                      :search-words="input.split(' ')"
+                    />
+                    <template v-else>{{ data.password }}</template>
+                  </span>
                   <div class="relative flex-col items-center hidden group/password-icon group-hover/password:flex">
                     <div
                       class="rounded absolute whitespace-nowrap left-[120%] hidden group-hover/password-icon:block px-[8px] py-[4px] bg-[black] text-[white]"
@@ -79,8 +87,28 @@
                 </div>
               </template>
             </PVColumn>
-            <PVColumn field="primaryItem.name" header="PRIMARY DROP" />
-            <PVColumn field="secondaryItem.name" header="SECONDARY DROP" />
+            <PVColumn field="primaryItem.name" header="PRIMARY DROP">
+              <template #body="{ data }">
+                <Highlighter
+                  v-if="findBy === 'ITEM_NAME'"
+                  highlight-class-name="font-bold underline"
+                  :text-to-highlight="data.primaryItem.name"
+                  :search-words="input.split(' ')"
+                />
+                <span v-else>{{ data.primaryItem.name }}</span>
+              </template>
+            </PVColumn>
+            <PVColumn field="secondaryItem.name" header="SECONDARY DROP">
+              <template #body="{ data }">
+                <Highlighter
+                  v-if="findBy === 'ITEM_NAME'"
+                  highlight-class-name="font-bold underline"
+                  :text-to-highlight="data.secondaryItem.name"
+                  :search-words="input.split(' ')"
+                />
+                <span v-else>{{ data.secondaryItem.name }}</span>
+              </template>
+            </PVColumn>
             <PVColumn field="boss" header="BOSS">
               <template #body="{ data }">
                 <div class="flex flex-col">
@@ -106,6 +134,7 @@
 import PVDataTable from 'primevue/datatable';
 import PVColumn from 'primevue/column';
 import { vElementHover } from '@vueuse/components';
+import Highlighter from 'vue-highlight-words';
 
 useServerSeoMeta({
   title: 'Atelier Ryza: Bottle Password Finder',

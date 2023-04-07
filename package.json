@@ -55,6 +55,7 @@
     "zod": "^3.21.4"
   },
   "dependencies": {
-    "@nuxtjs/web-vitals": "^0.2.4"
+    "@nuxtjs/web-vitals": "^0.2.4",
+    "vue-highlight-words": "^3.0.1"
   }
 }
