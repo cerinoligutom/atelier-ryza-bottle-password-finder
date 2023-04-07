@@ -1,15 +1,20 @@
 import type { NuxtConfig } from 'nuxt/config';
 
-const isProduction = process.env.NODE_ENV === 'production';
-const PRODUCTION_HOST = process.env.PRODUCTION_HOST ?? 'https://ryza-pw-finder.zeferinix.com';
-const LOCAL_HOST = 'http://localhost:3000';
-const HOST = isProduction ? PRODUCTION_HOST : LOCAL_HOST;
+const getUrl = () => {
+  let siteUrl =
+    process?.env?.NUXT_PUBLIC_SITE_URL ?? // Set this to your site URL in production env.
+    process?.env?.NUXT_ENV_VERCEL_URL ?? // Automatically set by Vercel.
+    'http://localhost:3000/';
+  // Make sure to include `https://` when not localhost.
+  siteUrl = siteUrl.includes('http') ? siteUrl : `https://${siteUrl}`;
+  // Make sure to including trailing `/`.
+  siteUrl = siteUrl.charAt(siteUrl.length - 1) === '/' ? siteUrl : `${siteUrl}/`;
+  return siteUrl;
+};
 
 const runtimeConfig: NuxtConfig['runtimeConfig'] = {
-  host: HOST,
-
   public: {
-    GQL_HOST: `${HOST}/api/graphql`,
+    GQL_HOST: `${getUrl()}api/graphql`,
   },
 };
 
