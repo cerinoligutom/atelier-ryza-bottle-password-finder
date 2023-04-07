@@ -13,6 +13,8 @@ const getUrl = () => {
 };
 
 const runtimeConfig: NuxtConfig['runtimeConfig'] = {
+  host: getUrl(),
+
   public: {
     GQL_HOST: `${getUrl()}api/graphql`,
   },
