@@ -1,6 +1,6 @@
 :root {
   --background-color: 255, 255, 255;
-  --secondary-background-color: 233, 235, 238;
+  --background-secondary-color: 233, 235, 238;
   --text-on-background-color: 0, 0, 0;
   --border-color: 221, 221, 221;
 
@@ -18,7 +18,7 @@ html {
   &.mode-dark,
   &.dark {
     --background-color: 57, 48, 83;
-    --secondary-background-color: 68, 60, 104;
+    --background-secondary-color: 68, 60, 104;
     --text-on-background-color: 205, 196, 233;
     --border-color: 109, 96, 148;
 
@@ -27,7 +27,5 @@ html {
     --entry-cost-text-color: 204, 204, 204;
     --table-header-text-on-background-color: 205, 196, 233;
     --table-header-background-color: 57, 48, 83;
-
-    @apply text-on-background bg-secondary-background;
   }
 }
