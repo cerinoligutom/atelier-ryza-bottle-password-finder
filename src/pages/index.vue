@@ -37,12 +37,12 @@
     </div>
 
     <div class="mt-[40px] w-[80%] flex flex-col">
-      <div v-if="passwordResults.length === 0" class="self-center mt-[250px] text-center">
+      <div v-if="!loading && passwordResults.length === 0" class="self-center mt-[250px] text-center">
         <p class="text-[16px] font-bold">Nothing to see here.</p>
         <p class="text-[14px] mt-[8px] text-placeholder-color">Results will show up here if we find anything.</p>
       </div>
 
-      <template v-if="passwordResults.length > 0">
+      <template v-if="loading || passwordResults.length > 0">
         <span class="font-semibold text-[12px]">{{ totalResults }} Results</span>
 
         <div class="mt-[20px]">
