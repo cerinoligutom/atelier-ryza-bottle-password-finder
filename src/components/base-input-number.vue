@@ -2,11 +2,12 @@
   <div class="relative flex">
     <Icon v-if="iconName" :name="iconName" class="absolute self-center ml-[12px]" :size="'24px'" />
     <PVInputNumber
-      v-model="modelValue"
+      :model-value="modelValue"
       v-bind="$attrs"
       type="number"
       class="input-number"
       :class="{ 'input-number--has-icon': !!iconName }"
+      @input="emit('update:modelValue', $event.value)"
     />
   </div>
 </template>
@@ -27,7 +28,7 @@ interface IProps {
 const props = defineProps<IProps>();
 
 interface IEmits {
-  (e: 'update:modelValue', modelValue: number): void;
+  (e: 'update:modelValue', modelValue: string): void;
 }
 const emit = defineEmits<IEmits>();
 
