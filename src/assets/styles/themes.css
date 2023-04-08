@@ -12,8 +12,7 @@
 }
 
 html {
-  color: @apply text-on-background;
-  background-color: @apply bg-secondary-background;
+  @apply text-on-background bg-secondary-background;
 
   &.htw-dark,
   &.mode-dark,
@@ -29,7 +28,6 @@ html {
     --table-header-text-on-background-color: 205, 196, 233;
     --table-header-background-color: 57, 48, 83;
 
-    color: @apply text-on-background;
-    background-color: @apply bg-secondary-background;
+    @apply text-on-background bg-secondary-background;
   }
 }
