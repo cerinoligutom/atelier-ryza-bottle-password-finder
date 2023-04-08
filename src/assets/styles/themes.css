@@ -1,5 +1,6 @@
 :root {
   --background-color: 255, 255, 255;
+  --secondary-background-color: 233, 235, 238;
   --text-on-background-color: 0, 0, 0;
   --border-color: 221, 221, 221;
 
@@ -11,23 +12,24 @@
 }
 
 html {
-  color: rgb(var(--text-on-background-color));
-  background-color: rgb(233, 235, 238);
+  color: @apply text-on-background;
+  background-color: @apply bg-secondary-background;
 
   &.htw-dark,
   &.mode-dark,
   &.dark {
     --background-color: 57, 48, 83;
+    --secondary-background-color: 68, 60, 104;
     --text-on-background-color: 205, 196, 233;
-    --border-color: 126, 114, 160;
+    --border-color: 109, 96, 148;
 
     --password-text-color: 14, 163, 246;
     --placeholder-text-color: 204, 204, 204;
     --entry-cost-text-color: 204, 204, 204;
-    --table-header-text-on-background-color: 221, 221, 221;
+    --table-header-text-on-background-color: 205, 196, 233;
     --table-header-background-color: 57, 48, 83;
 
-    color: rgb(var(--text-on-background-color));
-    background-color: rgb(68, 60, 104);
+    color: @apply text-on-background;
+    background-color: @apply bg-secondary-background;
   }
 }

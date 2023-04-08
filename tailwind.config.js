@@ -39,6 +39,7 @@ module.exports = {
        * against colors.
        */
       background: withOpacity('--background-color'),
+      'secondary-background': withOpacity('--secondary-background-color'),
       'on-background': withOpacity('--text-on-background-color'),
       'password-color': withOpacity('--password-text-color'),
       'placeholder-color': withOpacity('--placeholder-text-color'),
