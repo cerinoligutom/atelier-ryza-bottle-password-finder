@@ -83,12 +83,12 @@
             </PVColumn>
             <PVColumn field="primaryItem.name" header="PRIMARY DROP">
               <template #body="{ data }">
-                <TextHighlighter v-model="input" :enable="findByItemName" :text-to-highlight="data.primaryItem.name" />
+                <TextHighlighter v-model="debouncedInput" :enable="findByItemName" :text-to-highlight="data.primaryItem.name" />
               </template>
             </PVColumn>
             <PVColumn field="secondaryItem.name" header="SECONDARY DROP">
               <template #body="{ data }">
-                <TextHighlighter v-model="input" :enable="findByItemName" :text-to-highlight="data.secondaryItem.name" />
+                <TextHighlighter v-model="debouncedInput" :enable="findByItemName" :text-to-highlight="data.secondaryItem.name" />
               </template>
             </PVColumn>
             <PVColumn field="boss" header="BOSS">
