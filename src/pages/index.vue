@@ -58,13 +58,7 @@
               <template #body="{ data }">
                 <div v-element-hover="() => (hasCopiedPassword = false)" class="flex flex-row items-center group/password">
                   <span class="font-mono text-password-color text-[20px] mr-[8px]">
-                    <Highlighter
-                      v-if="findBy === 'PASSWORD'"
-                      highlight-class-name="font-bold underline"
-                      :text-to-highlight="data.password"
-                      :search-words="input.split(' ')"
-                    />
-                    <template v-else>{{ data.password }}</template>
+                    <TextHighlighter v-model="input" :enable="findByPassword" :text-to-highlight="data.password" />
                   </span>
                   <div class="relative flex-col items-center hidden group/password-icon group-hover/password:flex">
                     <div
@@ -89,24 +83,12 @@
             </PVColumn>
             <PVColumn field="primaryItem.name" header="PRIMARY DROP">
               <template #body="{ data }">
-                <Highlighter
-                  v-if="findBy === 'ITEM_NAME'"
-                  highlight-class-name="font-bold underline"
-                  :text-to-highlight="data.primaryItem.name"
-                  :search-words="input.split(' ')"
-                />
-                <span v-else>{{ data.primaryItem.name }}</span>
+                <TextHighlighter v-model="input" :enable="findByItemName" :text-to-highlight="data.primaryItem.name" />
               </template>
             </PVColumn>
             <PVColumn field="secondaryItem.name" header="SECONDARY DROP">
               <template #body="{ data }">
-                <Highlighter
-                  v-if="findBy === 'ITEM_NAME'"
-                  highlight-class-name="font-bold underline"
-                  :text-to-highlight="data.secondaryItem.name"
-                  :search-words="input.split(' ')"
-                />
-                <span v-else>{{ data.secondaryItem.name }}</span>
+                <TextHighlighter v-model="input" :enable="findByItemName" :text-to-highlight="data.secondaryItem.name" />
               </template>
             </PVColumn>
             <PVColumn field="boss" header="BOSS">
@@ -134,7 +116,6 @@
 import PVDataTable from 'primevue/datatable';
 import PVColumn from 'primevue/column';
 import { vElementHover } from '@vueuse/components';
-import Highlighter from 'vue-highlight-words';
 
 useServerSeoMeta({
   title: 'Atelier Ryza: Bottle Password Finder',
@@ -166,6 +147,8 @@ const FIND_BY_OPTIONS = [
 const findBy = ref<(typeof FIND_BY_OPTIONS)[number]['value']>(FIND_BY_OPTIONS[0].value);
 const input = ref('');
 const levelLimit = ref(100);
+const findByPassword = computed(() => findBy.value === 'PASSWORD');
+const findByItemName = computed(() => findBy.value === 'ITEM_NAME');
 
 // TODO: Debounced doesn't seem to work as expected when the ref has a complex type.
 // Current workaround is to make individual refDebounced

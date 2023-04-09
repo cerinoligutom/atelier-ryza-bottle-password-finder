@@ -4,6 +4,7 @@
   --border-color: 221, 221, 221;
 
   --password-text-color: 14, 163, 246;
+  --highlight-text-color: 244, 226, 161;
   --placeholder-text-color: 153, 153, 153;
   --entry-cost-text-color: 119, 119, 119;
   --table-header-background-color: 241, 241, 241;
@@ -20,7 +21,7 @@ html {
     --background-color: 57, 48, 83;
     --text-on-background-color: 205, 196, 233;
     --border-color: 126, 114, 160;
-
+    --highlight-text-color: 134, 124, 89;
     --password-text-color: 14, 163, 246;
     --placeholder-text-color: 204, 204, 204;
     --entry-cost-text-color: 204, 204, 204;
