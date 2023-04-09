@@ -57,7 +57,9 @@
             <PVColumn field="password" header="PASSWORD">
               <template #body="{ data }">
                 <div v-element-hover="() => (hasCopiedPassword = false)" class="flex flex-row items-center group/password">
-                  <span class="font-mono text-password-color text-[20px] mr-[8px]">{{ data.password }}</span>
+                  <span class="font-mono text-password-color text-[20px] mr-[8px]">
+                    <TextHighlighter v-model="debouncedInput" :enable="findByPassword" :text-to-highlight="data.password" />
+                  </span>
                   <div class="relative flex-col items-center hidden group/password-icon group-hover/password:flex">
                     <div
                       class="rounded absolute whitespace-nowrap left-[120%] hidden group-hover/password-icon:block px-[8px] py-[4px] bg-[black] text-[white]"
@@ -79,8 +81,16 @@
                 </div>
               </template>
             </PVColumn>
-            <PVColumn field="primaryItem.name" header="PRIMARY DROP" />
-            <PVColumn field="secondaryItem.name" header="SECONDARY DROP" />
+            <PVColumn field="primaryItem.name" header="PRIMARY DROP">
+              <template #body="{ data }">
+                <TextHighlighter v-model="debouncedInput" :enable="findByItemName" :text-to-highlight="data.primaryItem.name" />
+              </template>
+            </PVColumn>
+            <PVColumn field="secondaryItem.name" header="SECONDARY DROP">
+              <template #body="{ data }">
+                <TextHighlighter v-model="debouncedInput" :enable="findByItemName" :text-to-highlight="data.secondaryItem.name" />
+              </template>
+            </PVColumn>
             <PVColumn field="boss" header="BOSS">
               <template #body="{ data }">
                 <div class="flex flex-col">
@@ -137,6 +147,8 @@ const FIND_BY_OPTIONS = [
 const findBy = ref<(typeof FIND_BY_OPTIONS)[number]['value']>(FIND_BY_OPTIONS[0].value);
 const input = ref('');
 const levelLimit = ref(100);
+const findByPassword = computed(() => findBy.value === 'PASSWORD');
+const findByItemName = computed(() => findBy.value === 'ITEM_NAME');
 
 // TODO: Debounced doesn't seem to work as expected when the ref has a complex type.
 // Current workaround is to make individual refDebounced

@@ -42,6 +42,7 @@ module.exports = {
       'secondary-background': withOpacity('--background-secondary-color'),
       'on-background': withOpacity('--text-on-background-color'),
       'password-color': withOpacity('--password-text-color'),
+      'highlight-color': withOpacity('--highlight-text-color'),
       'placeholder-color': withOpacity('--placeholder-text-color'),
       'entry-cost-color': withOpacity('--entry-cost-text-color'),
       'table-header-background': withOpacity('--table-header-background-color'),
