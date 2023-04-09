@@ -3,7 +3,7 @@
     v-if="enable"
     highlight-class-name="font-bold underline bg-highlight-color"
     :text-to-highlight="textToHighlight"
-    :search-words="modelValue?.split(' ') || []"
+    :search-words="searchWords"
   />
   <span v-else>{{ textToHighlight }}</span>
 </template>
@@ -17,7 +17,7 @@ interface IProps {
   enable: boolean;
 }
 
-defineProps<IProps>();
-</script>
+const props = defineProps<IProps>();
 
-<style lang="postcss" scoped></style>
+const searchWords = computed(() => props.modelValue?.split(' ') || []);
+</script>
