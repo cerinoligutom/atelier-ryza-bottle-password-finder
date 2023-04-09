@@ -58,7 +58,7 @@
               <template #body="{ data }">
                 <div v-element-hover="() => (hasCopiedPassword = false)" class="flex flex-row items-center group/password">
                   <span class="font-mono text-password-color text-[20px] mr-[8px]">
-                    <TextHighlighter v-model="input" :enable="findByPassword" :text-to-highlight="data.password" />
+                    <TextHighlighter v-model="debouncedInput" :enable="findByPassword" :text-to-highlight="data.password" />
                   </span>
                   <div class="relative flex-col items-center hidden group/password-icon group-hover/password:flex">
                     <div
